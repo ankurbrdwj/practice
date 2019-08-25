@@ -6,7 +6,7 @@ import java.util.Scanner;
 inputformat
 6 4
 give me one grand today night
-give one grand today
+give one one grand today
 Output yes No
  */
 public class RansomNote {
@@ -25,7 +25,7 @@ public class RansomNote {
         }
         String[] note = new String[n];
         String[] noteItems = scanner.nextLine().split(" ");
-        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+        //scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
         for (int i = 0; i < n; i++) {
             String noteItem = noteItems[i];
             note[i] = noteItem;
@@ -37,32 +37,36 @@ public class RansomNote {
      static void checkMagazine(String[] magazine, String[] note) {
 
         // loop note first
+         // feq in note
+         int[] noteCount = new int[note.length];
+         int[] magazineCount  = new int[note.length];
          String[] words = new String[note.length];
-         int[] counts = new int[note.length];
-         int[] magazineCount = new int[note.length];
-         for (int i = 0, j = 0; i < note.length; i++) {
-             if (words[j].equals(note[i])) {
-                 counts[j]++;
-             } else {
-                 j++;
-                 words[j] = note[i];
-                 counts[j] = 1;
-             }
+         words[0]=note[0];
+                noteCount[0]=1;
+         for (int j = 1, i = 0; j < note.length; j++) {
+                if(words[i].equals(note[j])){
+                    noteCount[i]++;
+                }else{
+                    i++;
+                    words[i]=note[j];
+                    noteCount[i]=1;
+                }
          }
-         for (int j = 0; j < note.length; j++) {
-             for (int i = 0; i < magazine.length; i++) {
-                 if (note[j].equals(magazine[i])) {
-                     magazineCount[j]++;
+
+         for(int i=0;i<note.length;i++) {
+             for (int k = 0; k < magazine.length; k++) {
+                 if (note[i].equals(magazine[k])) {
+                    magazineCount[i]++;
                  }
              }
          }
          boolean ransom = false;
-         for (int i = 0; i < magazineCount.length; i++) {
-             if (magazineCount[i] == 0) {
-                 ransom = true;
-                 break;
+         for(int j=0;j<note.length;j++){
+             if(noteCount[j]>magazineCount[j]){
+                 ransom=true;
              }
          }
+
          if (ransom) {
              System.out.println("No");
          } else {

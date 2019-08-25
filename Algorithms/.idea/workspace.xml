@@ -2,414 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4e525c0-35ad-45f2-8837-39713169079b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Algorithms_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Algorithms_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Algorithms_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/java3d-core-1.6.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/vecmath-1.6.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/AnagramString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/SameSumSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Algorithms.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/BreadthFirstDirectedPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/BreadthFirstDirectedPaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/DepthFirstDirectedPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/DepthFirstDirectedPaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/DepthFirstOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/DepthFirstOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/Digraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/Digraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/DirectedCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/DirectedCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/DirectedDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/DirectedDFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/KosarajuSCC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/KosarajuSCC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/SymbolDigraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/SymbolDigraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/Topological.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/Topological.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/TransitiveClosure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/TransitiveClosure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/BoruvkaMST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/BoruvkaMST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/Edge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/EdgeWeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/EdgeWeightedGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/KruskalMST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/KruskalMST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/LazyPrimMST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/LazyPrimMST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/PrimMST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/PrimMST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/AcyclicLP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/AcyclicLP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/AcyclicSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/AcyclicSP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/Arbitrage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/Arbitrage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/BellmanFordSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/BellmanFordSP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/CPM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/CPM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/DijkstraAllPairsSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/DijkstraAllPairsSP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/DijkstraSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/DijkstraSP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/DirectedEdge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/DirectedEdge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/EdgeWeightedDigraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/EdgeWeightedDigraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/EdgeWeightedDirectedCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/EdgeWeightedDirectedCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/AdjMatrixGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/AdjMatrixGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/Bipartite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/Bipartite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/BreadthFirstPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/BreadthFirstPaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/CC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/CC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/Cycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/DegreesOfSeparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/DegreesOfSeparation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/SymbolGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/SymbolGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/FeeCalculator/Transaction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/MetroDesign/Command.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/MetroDesign/FareMapping.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/MetroDesign/MetroStation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/MetroDesign/MetroStationSystemTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/MetroDesign/SmartCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/MetroDesign/SwipeInCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/MetroDesign/SwipeOutCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/MetroDesign/helper/api/ApiTrigger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/MetroDesign/helper/api/SmartCardMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/MetroDesign/helper/api/TravelDetailsDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/MetroDesign/helper/api/TravelDetailsJDBCTemplate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Sense/MoodTestData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Sense/StubService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Servers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Servers/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Servers/.settings/org.eclipse.wst.server.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Servers/.settings/org.eclipse.wst.server.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Servers/Tomcat v8.0 Server at localhost-config/catalina.policy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Servers/Tomcat v8.0 Server at localhost-config/catalina.policy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Servers/Tomcat v8.0 Server at localhost-config/catalina.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Servers/Tomcat v8.0 Server at localhost-config/catalina.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Servers/Tomcat v8.0 Server at localhost-config/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Servers/Tomcat v8.0 Server at localhost-config/context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Servers/Tomcat v8.0 Server at localhost-config/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Servers/Tomcat v8.0 Server at localhost-config/server.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Servers/Tomcat v8.0 Server at localhost-config/tomcat-users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Servers/Tomcat v8.0 Server at localhost-config/tomcat-users.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Servers/Tomcat v8.0 Server at localhost-config/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Servers/Tomcat v8.0 Server at localhost-config/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/AccountDanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/AccountDanger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/Deadlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/Deadlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/Drop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/Drop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/MyJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/MyJoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/ProducerConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/ProducerConsumerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/Resource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/SafeLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/SafeLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/SimpleThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/SimpleThreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/SynchronizedRGB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/SynchronizedRGB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/concurrency/AtomicCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/concurrency/AtomicCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/Threads/concurrency/IncrementThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/Threads/concurrency/IncrementThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/beyond/ClosestPair.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/beyond/Complex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/beyond/FFT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/beyond/FarthestPair.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/beyond/GaussianElimination.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/beyond/GrahamScan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/beyond/Knapsack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/beyond/Knapsack2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/beyond/rs1423.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/beyond/rs1423.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/clrs/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/clrs/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/clrs/chapter4/MaximumSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/clrs/chapter4/StrassensMatrixMultiplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/BigBuyer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/Observer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/StockData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/StockQuotes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/Subject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/TradingFool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/adapter/SquarePegAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/composite/CompositeDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/facade/FacadeDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/proxy/ProxyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/design/proxy/ProxyDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/proxy/ProxyDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/proxy/ReportGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/design/proxy/ReportGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/proxy/ReportGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/proxy/ReportGeneratorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/design/proxy/ReportGeneratorImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/proxy/ReportGeneratorImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/proxy/SocketInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/design/proxy/SocketInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/proxy/SocketProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/design/proxy/SocketProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/design/singleton/Singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/algorithmanalysis/1Kints.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/algorithmanalysis/1Kints.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/algorithmanalysis/2Kints.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/algorithmanalysis/2Kints.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/algorithmanalysis/4Kints.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/algorithmanalysis/4Kints.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/algorithmanalysis/8Kints.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/algorithmanalysis/8Kints.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/algorithmanalysis/DoublingRatio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/algorithmanalysis/DoublingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/algorithmanalysis/Stopwatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/algorithmanalysis/ThreeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/algorithmanalysis/ThreeSumFast.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/Bag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/DoublyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/Evaluate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/EvaluatePostfix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/Ex_1_3_03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/Ex_1_3_04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/Ex_1_3_09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/Ex_1_3_29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/Ex_1_3_37.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/FixedCapacityStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/FixedCapacityStackOfStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/InfixToPostfix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/Parentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/ResizingArrayQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/ResizingArrayStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/Stats.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/bagsqueuestacks/tobe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/bagsqueuestacks/tobe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Average.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/BouncingBall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_22a.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_22b.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_27a.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_27b.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_31.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_32.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_35.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_36.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_37.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Ex_1_1_39.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/RandomSeq.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/Shuffle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/cards.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/basicprogmodel/cards.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/in1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/basicprogmodel/in1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/in2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/basicprogmodel/in2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/tinyT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/basicprogmodel/tinyT.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/basicprogmodel/tinyW.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/basicprogmodel/tinyW.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Accumulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Counter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Date.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Interval1D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Interval2D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/MyRational.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Point2D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Rational.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/StaticSETofInts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/TestVisualAccumulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Transaction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/VarianceAccumulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Vector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/VisualAccumulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Whitelist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/tinyT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/dataabstraction/tinyT.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/tinyW.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/dataabstraction/tinyW.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/unionfind/QuickFindUF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/unionfind/QuickUnionUF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/unionfind/UF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/unionfind/WeightedQuickUnionUF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/unionfind/mediumUF.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/unionfind/mediumUF.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/unionfind/tinyUF.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/unionfind/tinyUF.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/BreadthFirstDirectedPaths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/DepthFirstDirectedPaths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/DepthFirstOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/Digraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/DirectedCycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/DirectedDFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/KosarajuSCC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/SymbolDigraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/Topological.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/TransitiveClosure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/jobs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/jobs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/tinyDAG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/tinyDAG.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/tinyDG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/tinyDG.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/BoruvkaMST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/Edge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/EdgeWeightedGraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/KruskalMST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/LazyPrimMST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/PrimMST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/mediumEWG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/mediumEWG.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/tinyEWG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/tinyEWG.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/AcyclicLP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/AcyclicSP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/Arbitrage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/BellmanFordSP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/CPM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/DijkstraAllPairsSP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/DijkstraSP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/DirectedEdge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/EdgeWeightedDigraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/EdgeWeightedDirectedCycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/jobsPC.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/jobsPC.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/mediumEWD.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/mediumEWD.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/rates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/rates.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/tinyEWD.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/tinyEWD.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/tinyEWDAG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/tinyEWDAG.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/tinyEWDn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/tinyEWDn.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/tinyEWDnc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/tinyEWDnc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/AdjMatrixGraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/Bipartite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/BreadthFirstPaths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/CC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/Cycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/DegreesOfSeparation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/DepthFirstPaths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/DepthFirstSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/Graph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/SymbolGraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/mediumG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/mediumG.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/routes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/routes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/tinyCG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/tinyCG.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/tinyG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/tinyG.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/AnagramString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/BalancedParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/BalancedParenthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/Bill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/BreadthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/BreadthFirstSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/CeaserCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/CeaserCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/CommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/CommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/Conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/Conditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/DivisiblePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/DivisiblePairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/EditDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/FirstNonRepeatedCharacterEfficient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/FirstNonRepeatedCharacterEfficient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/FutureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/FutureTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/ImmutableClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/ImmutableClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/Kadane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/Kadane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/LCS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/LCS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/LevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/LevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/LeveledList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/LeveledList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/LexicographicalOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/LexicographicalOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/LightHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/LightHouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/LongestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/LongestCommonSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/LoopList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/LoopList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/MatchParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/MatchParenthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/MatrixBfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/MatrixBfs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/MatrixChainMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/MatrixChainMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/MatrixGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/MatrixGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/MatrixMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/MatrixMultiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/MinDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/MinDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/MyArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/NonRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/NonRepeatingChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/Prefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/Prefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/Replace20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/Replace20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/RotateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RotateMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/Snippet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/Snippet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/StockPrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/StockPrices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/SumCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/SumCoins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/ThetaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/ThetaOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/TrapRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/TrapRainWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/TreeTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/TreeTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/UniqueString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/UniqueString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/ZeroSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/ZeroSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/hackerrank/mcmwiki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/mcmwiki.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/labyak/Labyak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/Labyak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/labyak/MyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/MyHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/labyak/MySaxParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/MySaxParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/labyak/YakShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/YakShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/labyak/input.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/input.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/multithreading/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/multithreading/AccountDanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/AccountDanger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/multithreading/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/multithreading/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/multithreading/ConcurrencyLockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/ConcurrencyLockExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/multithreading/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/multithreading/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/multithreading/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/Resource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/balancedst/RedBlackBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/balancedst/RedBlackBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/balancedst/tinyST.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/balancedst/tinyST.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/bst/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/bst/AVLTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/bst/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/bst/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/bst/NodeRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/bst/NodeRef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/bst/TreeTraversals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/bst/TreeTraversals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/bst/tinyST.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/bst/tinyST.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/symboltables/BinarySearchST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/symboltables/BinarySearchST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/symboltables/FrequencyCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/symboltables/FrequencyCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/symboltables/SET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/symboltables/SET.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/symboltables/ST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/symboltables/ST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/symboltables/SequentialSearchST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/symboltables/SequentialSearchST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/symboltables/tale.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/symboltables/tale.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/symboltables/tinyST.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/symboltables/tinyST.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/searching/symboltables/tinyTale.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/symboltables/tinyTale.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/elementarysorts/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/elementarysorts/Insertion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/elementarysorts/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/elementarysorts/Selection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/elementarysorts/Shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/elementarysorts/Shell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/elementarysorts/tiny.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/elementarysorts/tiny.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/elementarysorts/words3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/elementarysorts/words3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/mergesort/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/mergesort/Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/mergesort/MergeBU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/mergesort/MergeBU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/mergesort/tiny.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/mergesort/tiny.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/mergesort/words3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/mergesort/words3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/Heap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/IndexMaxPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/IndexMaxPQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/IndexMinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/IndexMinPQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/MaxPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/MaxPQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/MinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/MinPQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/Multiway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/Multiway.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/TopM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/TopM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/m1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/m1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/m2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/m2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/m3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/m3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/tiny.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/tiny.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/tinyBatch.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/tinyBatch.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/tinyPQ.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/tinyPQ.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/priorityqueues/words3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/priorityqueues/words3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/quicksort/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/quicksort/Quick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/quicksort/Quick3way.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/quicksort/Quick3way.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/quicksort/tiny.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/quicksort/tiny.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/sorting/quicksort/words3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/quicksort/words3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/BinaryDump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/BinaryDump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/BinaryIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/BinaryIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/BinaryOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/BinaryOut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/BinaryStdIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/BinaryStdIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/BinaryStdInTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/BinaryStdInTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/BinaryStdOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/BinaryStdOut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/BinaryStdOutTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/BinaryStdOutTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/Copy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/Draw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/Draw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/DrawListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/DrawListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/HexDump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/HexDump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/In.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/In.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/InTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/InTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/Out.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/Out.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/Picture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/PictureDump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/PictureDump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/StdArrayIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/StdArrayIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/StdAudio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/StdAudio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/StdDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/StdDraw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/StdDraw3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/StdDraw3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/StdIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/StdIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/StdOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/StdOut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/StdRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/StdRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/StdStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/StdStats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/Stopwatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/Stopwatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/stdlib/mandrill.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/stdlib/mandrill.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/SameLevelList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/SameLevelList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/ArrayToAllInterpretations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/ArrayToAllInterpretations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/ArrayToTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/ArrayToTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/CreateTreeFromParentArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/CreateTreeFromParentArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/DistanceBetweenNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/DistanceBetweenNodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/LeastCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/LeastCommonAncestor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/LengthBetweenNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/LengthBetweenNodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/LevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/LevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/RecursiveFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/RecursiveFibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/SerializeDeserializeBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/SerializeDeserializeBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/SerializeTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/SerializeTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/StringNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/StringNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/TreeBFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/TreeBFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/TreeFromParrentArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/TreeFromParrentArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/TreePathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/TreePathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/TreePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/TreePrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/trees/binary/TreePrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/TreePrinterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/practice/util/PrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/util/PrintArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/RansomNote.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/RansomNote.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -434,103 +33,6 @@
       </state>
     </system>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/BreadthFirstPaths.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="117" column="10" selection-start-line="117" selection-start-column="10" selection-end-line="117" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/AnagramString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" selection-start-column="8" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/Labyak.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" selection-start-column="28" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/MyHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/MySaxParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" selection-start-column="28" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/YakShop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" selection-start-column="28" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/Bipartite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/balancedst/RedBlackBST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="444" column="12" selection-start-line="444" selection-start-column="12" selection-end-line="444" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -538,137 +40,35 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ArrayList</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/MyRational.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Point2D.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Rational.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/StaticSETofInts.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/TestVisualAccumulator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/VarianceAccumulator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Vector.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Transaction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/VisualAccumulator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/dataabstraction/Whitelist.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/unionfind/QuickFindUF.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/unionfind/QuickUnionUF.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/fundamentals/unionfind/UF.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/SymbolDigraph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/TransitiveClosure.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/Edge.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/Arbitrage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/CPM.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/DijkstraAllPairsSP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/DirectedEdge.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/AdjMatrixGraph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/DegreesOfSeparation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/SymbolGraph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/BreadthFirstDirectedPaths.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/DepthFirstDirectedPaths.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/DepthFirstOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/Digraph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/DirectedCycle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/DirectedDFS.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/KosarajuSCC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/directed/Topological.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/BoruvkaMST.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/EdgeWeightedGraph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/KruskalMST.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/LazyPrimMST.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/minspanningtrees/PrimMST.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/AcyclicLP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/AcyclicSP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/BellmanFordSP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/DijkstraSP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/EdgeWeightedDigraph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/shortestpaths/EdgeWeightedDirectedCycle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/Graph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/Cycle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/CC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/BreadthFirstPaths.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/practice/graphs/undirected/Bipartite.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/MyHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/MySaxParser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/YakShop.java" />
-        <option value="$PROJECT_DIR$/src/main/java/labyak/Labyak.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-18" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="2522" />
+    <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectId" id="1Pmz65WS4Yltwf2mQ8LL7KvwaIe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ankur" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2720848" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -690,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SameSumSequence">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -699,6 +99,20 @@
     </configuration>
     <configuration name="RansomNote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ankur.interview.hackerrank.RansomNote" />
+      <module name="Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankur.interview.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SameSumSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.hackerrank.SameSumSequence" />
       <module name="Algorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -724,53 +138,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="Algorithms" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="Algorithms" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -791,6 +158,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SameSumSequence" />
         <item itemvalue="Application.RansomNote" />
       </list>
     </recent_temporary>
@@ -810,12 +178,14 @@
       <workItem from="1559980359850" duration="3229000" />
       <workItem from="1559990972537" duration="333000" />
       <workItem from="1559991361875" duration="558000" />
-      <workItem from="1559991985407" duration="8435000" />
+      <workItem from="1559991985407" duration="13275000" />
+      <workItem from="1561872099762" duration="12000" />
+      <workItem from="1565888516467" duration="1547000" />
+      <workItem from="1566491944456" duration="432000" />
+      <workItem from="1566493203903" duration="9000" />
+      <workItem from="1566493887603" duration="5134000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14319000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -826,47 +196,19 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.3299363" />
-      <window_info anchor="bottom" id="Build" order="11" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.3299363" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" />
-      <window_info anchor="right" id="Maven" order="10" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -874,388 +216,95 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java</url>
           <line>58</line>
-          <properties />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/SameSumSequence.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/SameSumSequence.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/SameSumSequence.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/SameSumSequence.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="magazineCount" />
+        <watch expression="arr" />
+      </configuration>
+    </watches-manager>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/dataabstraction/Transaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="48" selection-start-column="48" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/dataabstraction/VisualAccumulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/dataabstraction/Whitelist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="41" selection-start-column="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/unionfind/QuickFindUF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" selection-start-column="44" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/unionfind/QuickUnionUF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/fundamentals/unionfind/UF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/SymbolDigraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/Edge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="46" selection-start-column="46" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/mediumEWG.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/Arbitrage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/CPM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/DijkstraAllPairsSP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="46" lean-forward="true" selection-start-column="46" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/DirectedEdge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/mediumEWD.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/rates.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/AdjMatrixGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="40" selection-start-column="40" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/DegreesOfSeparation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/SymbolGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="41" selection-start-column="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/BreadthFirstDirectedPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="139" column="70" lean-forward="true" selection-start-line="139" selection-start-column="70" selection-end-line="139" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/DepthFirstDirectedPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/DepthFirstOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="122" column="11" lean-forward="true" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/Digraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="98" column="14" lean-forward="true" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/DirectedCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/DirectedDFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/KosarajuSCC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="96" column="42" selection-start-line="96" selection-start-column="42" selection-end-line="96" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/TransitiveClosure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/directed/Topological.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/BoruvkaMST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/EdgeWeightedGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="98" column="14" lean-forward="true" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="14" />
-          <folding>
-            <element signature="e#3590#3596#0" expanded="true" />
-            <element signature="e#4723#4729#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/KruskalMST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-          <folding>
-            <element signature="e#1440#1446#0" expanded="true" />
-            <element signature="e#1640#1646#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/LazyPrimMST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="115" column="9" selection-start-line="115" selection-start-column="9" selection-end-line="115" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/minspanningtrees/PrimMST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="128" column="9" selection-start-line="128" selection-start-column="9" selection-end-line="128" selection-end-column="9" />
-          <folding>
-            <element signature="e#3058#3064#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/AcyclicLP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="69" column="12" lean-forward="true" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/AcyclicSP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="70" column="12" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/BellmanFordSP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="118" column="9" selection-start-line="118" selection-start-column="9" selection-end-line="118" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/DijkstraSP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/EdgeWeightedDigraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="119" column="13" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
-          <folding>
-            <element signature="e#2870#2884#0" expanded="true" />
-            <element signature="e#4020#4034#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/shortestpaths/EdgeWeightedDirectedCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="133" column="16" selection-start-line="133" selection-start-column="16" selection-end-line="133" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/Cycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/CC.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/BreadthFirstPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="117" column="10" selection-start-line="117" selection-start-column="10" selection-end-line="117" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/graphs/undirected/Bipartite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/searching/balancedst/RedBlackBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="444" column="12" selection-start-line="444" selection-start-column="12" selection-end-line="444" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/AnagramString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/MySaxParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/YakShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/MyHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/interview/labyak/Labyak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ankur/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>scanner.skip(&quot;(\r\n|[\n\r\u2028\u2029\u0085])?&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>scanner.nextLine()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>scanner.next()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="masterDetails">
     <states>
