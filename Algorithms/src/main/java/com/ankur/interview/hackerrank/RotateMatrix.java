@@ -1,7 +1,5 @@
 package com.ankur.interview.hackerrank;
 
-import java.util.Arrays;
-
 public class RotateMatrix {
 
 	public RotateMatrix() {
@@ -9,44 +7,36 @@ public class RotateMatrix {
 	}
 
 	public static void rotate(int[][] matrix, int n) {
-		for (int layer = 0; layer < n / 2; ++layer) {
-			int first = layer;
-			int last = n - 1 - layer; 
-			for (int i = first; i < last; ++i) {
-				int offset = i - first;
-				int top = matrix[first][i]; // save top
+		for (int i = 0; i < n / 2; ++i) {
+			for (int j = i; j < n - 1 - i; ++j) {
+				int top = matrix[i][j]; // save top
 				// left -> top
-				matrix[first][i] = matrix[last - offset][first];
-
+				matrix[i][j] = matrix[n - 1 - j][i];
 				// bottom -> left
-				matrix[last - offset][first] = matrix[last][last - offset];
-
+				matrix[n - 1 - j][i] = matrix[n - 1 - i][n - 1 - j];
 				// right -> bottom
-				matrix[last][last - offset] = matrix[i][last];
-
+				matrix[n - 1 - i][n - 1 - j] = matrix[j][n - 1 - i];
 				// top -> right
-				matrix[i][last] = top; // right <- saved top
+				matrix[j][n - 1 - i] = top; // right <- saved top
 			}
 		}
 	}
-	static int sum(int[] numbers) {
-		 int length=numbers[0];
-		    int sum=0;
-		    for(int i=1;i<numbers.length;i++){
-		    	sum=sum+numbers[i];
-		    }
-			return sum;
-	    }
+
+	static void printMatrix(int arr[][],int N)
+	{
+		for (int i = 0; i < N; i++)
+		{
+			for (int j = 0; j < N; j++)
+				System.out.print( arr[i][j] + " ");
+			System.out.println();
+		}
+	}
+
 	public static void main(String... args){
 		int[][] matrix={{1,2,3,4},{5,6,7,8},{9,0,1,2},{3,4,5,6}};
-		for(int i=0;i<4;i++)
-		System.out.println(Arrays.toString(matrix[i])+"\n");
+		printMatrix(matrix,4);
 		rotate(matrix,4);
-		for(int i=0;i<4;i++)
-		System.out.println(Arrays.toString(matrix[i])+"\n");	
-int[] numbers={5,1,2,3,4,5};
+		printMatrix(matrix,4);
 
-	int sum=sum(numbers);
-	System.out.println(sum);
 }
 }

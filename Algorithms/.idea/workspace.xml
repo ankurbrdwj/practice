@@ -2,12 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4e525c0-35ad-45f2-8837-39713169079b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/SameSumSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/Bitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/DelhiOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/EvenOddQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/JosephusProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/MedianOfStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/MinimumStringInsertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/concurrency/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/concurrency/UsingBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/concurrency/lockcondition/MyBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/multithreading/concurrency/lockcondition/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/noncompare/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/strings/CountCompress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/strings/OneEditAway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/strings/PermutationPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/strings/RabinKarpSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/RansomNote.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/RansomNote.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RansomNote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/design/adapter/RoundHole.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/design/adapter/RoundHole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/design/adapter/SquarePeg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/design/adapter/SquarePeg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/design/adapter/SquarePegAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/design/adapter/SquarePegAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/CeaserCipher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/CeaserCipher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/RotateMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/RotateMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/SameSumSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/SameSumSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/design/adapter/SquarePegAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/design/adapter/SquarePegAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/CeaserCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/CeaserCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RotateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/RotateMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/SameSumSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/SameSumSequence.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,21 +60,13 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>ArrayList</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
-  </component>
   <component name="ProjectId" id="1Pmz65WS4Yltwf2mQ8LL7KvwaIe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -71,10 +83,13 @@
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ankur.interview.multithreading.concurrency" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
@@ -90,15 +105,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SameSumSequence">
+  <component name="RunManager" selected="Application.EvenOddQuery">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RansomNote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.hackerrank.RansomNote" />
+    <configuration name="CeaserCipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.hackerrank.CeaserCipher" />
       <module name="Algorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -111,13 +126,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SameSumSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.hackerrank.SameSumSequence" />
+    <configuration name="DelhiOddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.hackerrank.DelhiOddEven" />
       <module name="Algorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ankur.interview.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenOddQuery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.hackerrank.EvenOddQuery" />
+      <module name="Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankur.interview.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.hackerrank.RotateMatrix" />
+      <module name="Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankur.interview.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsingBlockingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.multithreading.concurrency.UsingBlockingQueue" />
+      <module name="Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankur.interview.multithreading.concurrency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,8 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SameSumSequence" />
-        <item itemvalue="Application.RansomNote" />
+        <item itemvalue="Application.EvenOddQuery" />
+        <item itemvalue="Application.DelhiOddEven" />
+        <item itemvalue="Application.CeaserCipher" />
+        <item itemvalue="Application.UsingBlockingQueue" />
+        <item itemvalue="Application.RotateMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +243,7 @@
       <workItem from="1565888516467" duration="1547000" />
       <workItem from="1566491944456" duration="432000" />
       <workItem from="1566493203903" duration="9000" />
-      <workItem from="1566493887603" duration="5134000" />
+      <workItem from="1566493887603" duration="52153000" />
     </task>
     <servers />
   </component>
@@ -278,33 +338,53 @@
           <line>28</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/strings/PermutationPalindrome.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/noncompare/CountingSort.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/noncompare/CountingSort.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/noncompare/CountingSort.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/sorting/noncompare/CountingSort.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/strings/CountCompress.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/CeaserCipher.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/DelhiOddEven.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/EvenOddQuery.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="magazineCount" />
-        <watch expression="arr" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>scanner.skip(&quot;(\r\n|[\n\r\u2028\u2029\u0085])?&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>scanner.nextLine()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>scanner.next()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="masterDetails">
     <states>
