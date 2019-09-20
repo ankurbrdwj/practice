@@ -7,8 +7,8 @@ import java.util.HashMap;
  */
 public class SameSumSequence {
     public static void main(String[] arge) {
-        int[] array1 = {1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1};
-        int[] array2 = {1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0};
+        int[] array1 = {0,1,0,1,1,1,0,0,1,1,0,1};
+        int[] array2 = {1,0,1,0,0,0,0,0,1,1,0,1};
         int startIndex = 0;
         int lastIndex = 0;
         int length = usingAuxArray(array1, array2);
