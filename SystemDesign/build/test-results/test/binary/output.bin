@@ -1,0 +1,8 @@
+)#########  Travel card Swiped In  ######
+QCard Balance = Rs. 1000, Start Station = A2, DayOfYear = 2019-10-01T18:16:56.611
+)#########  Travel card Swiped Out ######
+NCard Balance = Rs. 972, End Station = A6, DayOfYear = 2019-10-01T18:17:02.626
+)#########  Travel card Swiped In  ######
+PCard Balance = Rs. 500, Start Station = A2, DayOfYear = 2019-10-01T18:17:04.634
+)#########  Travel card Swiped Out ######
+NCard Balance = Rs. 472, End Station = A6, DayOfYear = 2019-10-01T18:17:10.645
