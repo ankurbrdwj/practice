@@ -1,73 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4e525c0-35ad-45f2-8837-39713169079b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/com/ankur/training/java8/collection/apiadditions/Additions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/com/ankur/training/java8/methodreferences/MethodReferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/com/ankur/training/java8/methodreferences/MyRules.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/libs/systemdesign-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/classes/metrodesign.service.FareServiceTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/packages/metrodesign.service.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/TEST-metrodesign.service.FareServiceTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/domain/Station.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/domain/TravelCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/domain/TravelDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/domain/Traveller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/repository/TravelDetailRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/service/FareService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/service/FareStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/service/SwipeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/service/SwipeInCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/service/SwipeOutCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/service/WeekdayStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/service/WeekendStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/test/java/metrodesign/service/FareServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/CeaserCipher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/CeaserCipher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/CeaserCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/CeaserCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java8/out/production/Java8/com/ankur/training/java8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8/out/production/Java8/com/ankur/training/java8/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java8/src/com/ankur/training/Java8InAction/ch2/PrintApples.java" beforeDir="false" />
-    </list>
+    <list default="true" id="c4e525c0-35ad-45f2-8837-39713169079b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,7 +220,7 @@
       <workItem from="1566493203903" duration="9000" />
       <workItem from="1566493887603" duration="59608000" />
       <workItem from="1569850193584" duration="1480000" />
-      <workItem from="1569934262555" duration="275000" />
+      <workItem from="1569934262555" duration="349000" />
     </task>
     <servers />
   </component>

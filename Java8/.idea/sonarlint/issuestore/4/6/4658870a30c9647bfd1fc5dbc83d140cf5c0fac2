@@ -1,0 +1,44 @@
+
+esquid:S1192
+"IDefine a constant instead of duplicating this literal "Bus Tour" 4 times.(êşÚÓıÿÿÿÿ
+dsquid:S1192"HDefine a constant instead of duplicating this literal "Skyride" 6 times.(ÊÅº‡şÿÿÿÿ
+csquid:S1192
+"GDefine a constant instead of duplicating this literal "Jenny" 10 times.(êşÚÓıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(±¬Ëùÿÿÿÿ
+xsquid:S4276"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(öß²‹øÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãĞş©
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(£°Æìûÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(™»ò£
+xsquid:S4276"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(…Éò—şÿÿÿÿ
+T
+squid:S106 "9Replace this use of System.out or System.err by a logger.(Éê´Ğûÿÿÿÿ
+ssquid:S4276""\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(İŠÁÅ
+T
+squid:S106'"9Replace this use of System.out or System.err by a logger.(£ŠĞ±ùÿÿÿÿ
+T
+squid:S106-"9Replace this use of System.out or System.err by a logger.(öÄ”˜ùÿÿÿÿ
+N
+squid:S106."9Replace this use of System.out or System.err by a logger.(»¦˜?
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(²ˆìõùÿÿÿÿ
+rsquid:S42763"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(«®¢–
+Fsquid:S16113"/Remove the parentheses around the "k" parameter(«®¢–
+O
+squid:S1067"9Replace this use of System.out or System.err by a logger.(„´¾¯
+T
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Ôµ‘­şÿÿÿÿ
+T
+squid:S1069"9Replace this use of System.out or System.err by a logger.(¸¤«ºøÿÿÿÿ
+T
+squid:S106:"9Replace this use of System.out or System.err by a logger.(Ô—®Íúÿÿÿÿ
+Vsquid:UnusedPrivateMethod="1Remove this unused private "listCombiner" method.(„»ñ‹
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±¬Ëùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ãĞş©
+gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Éê´Ğûÿÿÿÿ
+gsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(£ŠĞ±ùÿÿÿÿ
+gsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(öÄ”˜ùÿÿÿÿ
+gsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(Ô—®Íúÿÿÿÿ
