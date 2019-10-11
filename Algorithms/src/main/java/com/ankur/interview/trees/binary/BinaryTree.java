@@ -10,7 +10,7 @@ package com.ankur.interview.trees.binary;
 public class BinaryTree {
 
 
-	Node root;
+	public Node root;
 	public BinaryTree() {
 		// TODO Auto-generated constructor stub
 		root=new Node();

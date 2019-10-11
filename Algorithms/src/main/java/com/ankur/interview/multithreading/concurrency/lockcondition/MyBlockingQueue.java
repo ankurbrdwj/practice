@@ -26,7 +26,6 @@ public class MyBlockingQueue<E> {
         try {
             if(queue.size() == max){
                 System.out.printf("blocking the queue while the size is max %d\n", queue.size());
-
             }
             queue.add(e);
         } finally {

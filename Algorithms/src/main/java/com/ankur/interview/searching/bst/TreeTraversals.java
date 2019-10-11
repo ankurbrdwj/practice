@@ -32,7 +32,7 @@ public class TreeTraversals {
 	        System.out.print(root.data + " ");
 	    }
 
-	    public void inorderItr(Node root){
+	    public void inOrderItr(Node root){
 	        Deque<Node> stack = new LinkedList<Node>();
 	        Node node = root;
 	        while(true){
@@ -109,24 +109,21 @@ public class TreeTraversals {
 	    }
 	    
 	    public static void main(String args[]){
-//	        BinaryTree bt = new BinaryTree();
-//	        Node head = null;
-//	        head = bt.addNode(10, head);
-//	        head = bt.addNode(15, head);
-//	        head = bt.addNode(19, head);
-//	        head = bt.addNode(17, head);
-//	        head = bt.addNode(11, head);
-//
-//	        head = bt.addNode(-11, head);
-//
-//
-//	        TreeTraversals tt = new TreeTraversals();
-//	        tt.postOrder(head);
-//	        System.out.println();
-//	        tt.postOrderItr(head);
-//	        System.out.println();
-//	        tt.postOrderItrOneStack(head);
-	    }
+			Node root = new Node(1);
+			root.left=new Node(2);
+			root.right=new Node(3);
+
+			root.left.left = new Node(4);
+			root.left.right = new Node(5);
+			TreeTraversals tt=new TreeTraversals();
+			tt.preOrderItr(root);
+			System.out.println();
+			tt.inOrderItr(root);
+			System.out.println();
+			tt.postOrderItr(root);
+			System.out.println();
+			tt.postOrder(root);
+		}
 	}
 
 

@@ -12,7 +12,14 @@ class Node{
     int height;
     int size;
     Color color;
-    
+
+    public Node(int data) {
+        this.data=data;
+    }
+
+    public Node() {
+    }
+
     public static Node newNode(int data){
         Node n = new Node();
         n.left = null;
