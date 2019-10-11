@@ -1,27 +1,27 @@
 
-?squid:S1604"(Make this anonymous inner class a lambda(×—Ã£
-Usquid:S1854">Remove this useless assignment to local variable "methodREfA".(×—Ã£
 N
-squid:S106"9Replace this use of System.out or System.err by a logger.(…ĞË0
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(‘€Úıÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(şÅŠûøÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(–ª É
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ì¢„©
-O
-squid:S106 "9Replace this use of System.out or System.err by a logger.(º«˜î
-T
-squid:S106""9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+squid:S1069"9Replace this use of System.out or System.err by a logger.(×İ½5
 O
 squid:S106("9Replace this use of System.out or System.err by a logger.(Àƒß¸
 Psquid:S3400-"9Remove this method and declare a constant for this value.(Ø®ñŒ
 O
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ª É
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+O
 squid:S1062"9Replace this use of System.out or System.err by a logger.(Õ÷¸‹
 N
-squid:S1069"9Replace this use of System.out or System.err by a logger.(×İ½5
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ĞË0
+?squid:S1604"(Make this anonymous inner class a lambda(×—Ã£
 O
 squid:S106>"9Replace this use of System.out or System.err by a logger.(Àƒß¸
+Usquid:S1854">Remove this useless assignment to local variable "methodREfA".(×—Ã£
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(şÅŠûøÿÿÿÿ
+O
+squid:S106 "9Replace this use of System.out or System.err by a logger.(º«˜î
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì¢„©
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘€Úıÿÿÿÿ
 Fsquid:S1481"/Remove this unused "methodREfA" local variable.(×—Ã£

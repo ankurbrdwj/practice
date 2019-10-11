@@ -2,7 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1d8786f-d9f6-4900-985d-4ee504e97c50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b18483739e88dd83a05db63ac42b05291c9e068" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/22255675a22252d4fe8f7a30878a7728394c8ba8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b7745bac9f38ffc83dfa1da82aa7f7a6b7ab6a5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85901cd37d66e50c905d0c94861e4031cc760107" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd0d7855654f57f08797da7493df698621f81192" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/collection/streams/DVD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/collection/streams/DVDINFO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/collection/streams/Reading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/cyclicbarrier/ZooCleaner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/lambdas/StudyGuide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/3/c/3c2650c29a3903c93332b19916b0d7dfa170f59f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/4/3/4322282e1851d8bc1f4463f733f34fce70fff45c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/5/a/5af2243e2f9ff820389c02487f7fc403d528d164" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/6/2/62a6f2f10a71883860b89cab7ac3c5f420808b26" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/6/8/688965a7bd465fcbcbc143756ee74febc32b9244" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/7/3/7342796fda8e8577d7d209e42afb9929ef4d171b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/7/e/7e97cef08228ebb8546a3d66f9e44400c70e0e89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/8/4/841f7171c077f665aa0cf6d1f7a48bf8ae9f5e92" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/8/8/88caae5b4a32b4609c24162c06da90a84e8a1fd3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/8/f/8f0e0d1a79a82afec57b3db5165055cd61d07b6a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/9/3/9372fbe2673cc859fc74fb80546833085ad59f7b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/9/a/9a506fda7708406e069d77048a657837c3d96715" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/b/8/b84f31788295bf00a51f6f0f249c906068a5c34d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/e/8/e87170ff7b859082dd6b854ddf5f8a7bfa3bf838" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/e/9/e91e619b2d249d23f540ca025b561a13574e9c35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/f/f/fff6e2a2834e1efeeef29eb50805574313d1ecf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/classes/parkinglot.service.ParkingLotTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/packages/parkinglot.service.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/TEST-parkinglot.service.ParkingLotTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/chainofresponsibility/AuthenticationProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/chainofresponsibility/AuthenticationProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/marsrover/domain/Rover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/marsrover/service/MarsRoverApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/marsrover/service/RoverControlService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/parkinglot/domain/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/parkinglot/domain/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/parkinglot/domain/MotorCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/parkinglot/domain/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/parkinglot/domain/ParkingTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/parkinglot/domain/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/parkinglot/domain/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/parkinglot/domain/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/parkinglot/sevice/ParkingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/parkinglot/sevice/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/test/java/parkinglot/service/ParkingLotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/4658870a30c9647bfd1fc5dbc83d140cf5c0fac2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/4658870a30c9647bfd1fc5dbc83d140cf5c0fac2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/adea18832bc4dca4b8c69a0e52d2d7711f1cefc1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/adea18832bc4dca4b8c69a0e52d2d7711f1cefc1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java8/META-INF/Java8.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/5/c/5cad303a5774183be701b1d4a406f9631b50263c" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/5/c/5cad303a5774183be701b1d4a406f9631b50263c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/a/e/ae76f851d89335c7b64fddec5e2e2b6093e519ab" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/a/e/ae76f851d89335c7b64fddec5e2e2b6093e519ab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/classes/metrodesign.service.FareServiceTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/packages/metrodesign.service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/TEST-metrodesign.service.FareServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/service/SwipeOutCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/metrodesign/service/SwipeOutCommand.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +103,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549478602813" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -48,13 +123,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Additions">
+  <component name="RunManager" selected="Application.DVD">
     <configuration name="Additions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ankur.training.java8.collection.apiadditions.Additions" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ankur.training.java8.collection.apiadditions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DVD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.training.java8.collection.streams.DVD" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankur.training.java8.collection.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,13 +163,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Java8" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MethodReferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ankur.training.java8.methodreferences.MethodReferences" />
       <module name="Java8" />
@@ -95,12 +176,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZooCleaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.training.java8.concurrency.cyclicbarrier.ZooCleaner" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankur.training.java8.concurrency.cyclicbarrier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DVD" />
+        <item itemvalue="Application.ZooCleaner" />
         <item itemvalue="Application.Additions" />
         <item itemvalue="Application.MethodReferences" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +220,10 @@
       <workItem from="1569578479960" duration="383000" />
       <workItem from="1569588621932" duration="9638000" />
       <workItem from="1569934231148" duration="388000" />
+      <workItem from="1570087434772" duration="13957000" />
+      <workItem from="1570446486201" duration="415000" />
+      <workItem from="1570449075026" duration="534000" />
+      <workItem from="1570450537762" duration="34000" />
     </task>
     <servers />
   </component>
@@ -146,6 +245,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ankur/training/java8/collection/streams/DVD.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ankur/training/java8/collection/streams/DVD.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/nio/file/Files.java</url>
+          <line>3784</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/nio/file/Files.java</url>
+          <line>2782</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ankur/training/java8/collection/streams/DVD.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ankur/training/java8/collection/streams/DVD.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="masterDetails">
     <states>

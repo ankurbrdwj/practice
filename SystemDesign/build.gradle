@@ -19,3 +19,7 @@ dependencies {
 tasks.test {
     useJUnitPlatform()
 }
+task(runMain, dependsOn: 'classes', type: JavaExec) {
+    main = 'marsrover.service.MarsRoverApplication'
+    classpath = sourceSets.main.runtimeClasspath
+}

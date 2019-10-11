@@ -40,7 +40,7 @@ set fare
             int noOfStations = end - start;
             double fare =travelDetails.getFareStrategy().getFarePerStation() * noOfStations;
             travelDetails.setFare(fare);
-            BigDecimal balance = new BigDecimal(travelDetails.getTravelCard().getBalance().doubleValue()-fare);
+            BigDecimal balance = BigDecimal.valueOf(travelDetails.getTravelCard().getBalance().doubleValue()-fare);
             travelDetails.getTravelCard().setBalance(balance);
             System.out.println("Card Balance = Rs. " + travelDetails.getTravelCard().getBalance() + ", End Station = " + travelDetails.getDestination() + ", DayOfYear = " + travelDetails.getEndTime());
             Thread.sleep(2000);

@@ -1,7 +1,6 @@
 
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(õÒ•×
 ]squid:S001120"FDefine and throw a dedicated exception instead of using a generic one.(Ë…×N
-=squid:S2111+"!Use "BigDecimal.valueOf" instead.(ê¢á¨ûÿÿÿÿ
 T
 squid:S106-"9Replace this use of System.out or System.err by a logger.(·´ÃÀøÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(õÒ•×
