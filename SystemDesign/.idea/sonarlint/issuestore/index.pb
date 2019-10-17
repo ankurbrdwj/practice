@@ -83,3 +83,11 @@ V
 &src/main/java/command/CommandBase.java,c/a/ca794052fb59d796c42e06ee9473f9a3827ca502
 X
 (src/main/java/command/RemoteControl.java,8/a/8a84f7264c3ab8a1899032c05b74d0abc34d3879
+b
+2src/main/java/creational/singleton/HayStorage.java,1/2/129bc846e8de950e754d12a224fd38f9e8a147d0
+a
+1src/main/java/creational/immutable/Immutable.java,9/9/99d0e8083f255854f22e5311861cd0a9ef9f6589
+X
+(src/main/java/FlightRecorder/Flight.java,1/7/17768650f269b1872b55af9c1f76dcbcb75dc883
+]
+-src/main/java/FlightRecorder/Application.java,2/1/21ffa3d658f2c4fbda5b80aa924f108c86721f13

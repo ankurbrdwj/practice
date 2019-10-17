@@ -17,7 +17,6 @@ public class RemoteControl {
         try{
             System.out.println("" );
         }catch(Exception e){
-            float num= 0x123_1.0;
         }
     }
 

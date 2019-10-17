@@ -43,9 +43,9 @@ set fare
             BigDecimal balance = BigDecimal.valueOf(travelDetails.getTravelCard().getBalance().doubleValue()-fare);
             travelDetails.getTravelCard().setBalance(balance);
             System.out.println("Card Balance = Rs. " + travelDetails.getTravelCard().getBalance() + ", End Station = " + travelDetails.getDestination() + ", DayOfYear = " + travelDetails.getEndTime());
-            Thread.sleep(2000);
             if (travelDetails.getTravelCard().getBalance().doubleValue() < fare) {
                 throw new Exception( "Amount below fare calculated .Please recharge!");
             }
+        Thread.sleep(2000);
     }
 }
