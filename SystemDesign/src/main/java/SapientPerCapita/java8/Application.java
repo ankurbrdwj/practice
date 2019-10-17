@@ -14,7 +14,11 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
+/*
+/convert sample input to sample out put
+if country is not present then use city name instead
+system can take input form diff formats like csv, xml , excel ,pipe seperated etc
+ */
 public class Application {
 
     public static void main(String[] args) {
