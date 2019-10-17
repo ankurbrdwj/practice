@@ -1,7 +1,7 @@
 
-Nsquid:S1135	"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Vsquid:S1854(":Remove this useless assignment to local variable "oddSum".( ¥¡Óûÿÿÿÿ
 N
 squid:S106"9Replace this use of System.out or System.err by a logger.(ü„ê!
 Rsquid:S1854)";Remove this useless assignment to local variable "evenSum".(ˆ÷¸
-Vsquid:S1854(":Remove this useless assignment to local variable "oddSum".( ¥¡Óûÿÿÿÿ
 Asquid:S1659"%Declare "evenSum" on a separate line.(Ö‡Íøÿÿÿÿ
+Nsquid:S1135	"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ

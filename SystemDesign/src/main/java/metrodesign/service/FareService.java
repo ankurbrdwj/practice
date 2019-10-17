@@ -13,6 +13,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class FareService {
     private ConcurrentMap<Station, AtomicInteger> footFall = new ConcurrentHashMap<>();
     TravelDetailRepository travelDetailRepository = new TravelDetailRepository();
+
     public TravelDetails cardSwipedIn(TravelDetails travelDetails, Station station) throws Exception {
         SwipeCommand command = new SwipeInCommand(travelDetails, station);
             command.execute();

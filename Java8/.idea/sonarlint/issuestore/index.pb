@@ -21,3 +21,7 @@ k
 ;src/com/ankur/training/java8/collection/streams/DVDINFO.txt,b/d/bd0d7855654f57f08797da7493df698621f81192
 h
 8src/com/ankur/training/java8/collection/streams/DVD.java,2/2/22255675a22252d4fe8f7a30878a7728394c8ba8
+i
+9src/com/ankur/training/java8/methodreferences/RunRef.java,a/5/a5483b5629e7613d2af5fb52630762fb482f5a76
+t
+Dsrc/com/ankur/training/java8/methodreferences/MultipleArguments.java,c/e/ce0daef24c2f481992cb41e0d6ebca7455823753

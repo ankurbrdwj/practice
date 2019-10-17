@@ -1,27 +1,27 @@
 
-N
-squid:S1069"9Replace this use of System.out or System.err by a logger.(×İ½5
-O
-squid:S106("9Replace this use of System.out or System.err by a logger.(Àƒß¸
-Psquid:S3400-"9Remove this method and declare a constant for this value.(Ø®ñŒ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(–ª É
-T
-squid:S106""9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
-O
-squid:S1062"9Replace this use of System.out or System.err by a logger.(Õ÷¸‹
-N
-squid:S106"9Replace this use of System.out or System.err by a logger.(…ĞË0
-?squid:S1604"(Make this anonymous inner class a lambda(×—Ã£
-O
-squid:S106>"9Replace this use of System.out or System.err by a logger.(Àƒß¸
-Usquid:S1854">Remove this useless assignment to local variable "methodREfA".(×—Ã£
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(şÅŠûøÿÿÿÿ
-O
-squid:S106 "9Replace this use of System.out or System.err by a logger.(º«˜î
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ì¢„©
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(‘€Úıÿÿÿÿ
-Fsquid:S1481"/Remove this unused "methodREfA" local variable.(×—Ã£
+Ssquid:S1854">Remove this useless assignment to local variable "methodREfA".(×—Ã£
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì¢„©
+Dsquid:S1481"/Remove this unused "methodREfA" local variable.(×—Ã£
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(şÅŠûøÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àƒß¸
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(×İ½5
+Nsquid:S3400"9Remove this method and declare a constant for this value.(Ø®ñŒ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ª É
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àƒß¸
+=squid:S1604"(Make this anonymous inner class a lambda(×—Ã£
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ĞË0
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘€Úıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ÷¸‹
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(º«˜î

@@ -1,5 +1,5 @@
 
-Osquid:S1481",Remove this unused "plateau" local variable.(íÚ·õøÿÿÿÿ8óÖ°Ù-
-^squid:S1854";Remove this useless assignment to local variable "plateau".(íÚ·õøÿÿÿÿ8óÖ°Ù-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(ıĞ“°8à†Æ±Ù-
+^squid:S1854";Remove this useless assignment to local variable "plateau".(íÚ·õøÿÿÿÿ8óÖ°Ù-
+Osquid:S1481",Remove this unused "plateau" local variable.(íÚ·õøÿÿÿÿ8óÖ°Ù-

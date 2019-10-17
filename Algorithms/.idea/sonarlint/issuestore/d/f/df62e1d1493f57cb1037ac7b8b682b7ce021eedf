@@ -1,0 +1,10 @@
+
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(―κ„ϊÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ύ°ώÿÿÿÿ
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ƒ® ϊÿÿÿÿ
+Ssquid:S1854'"7Remove this useless assignment to local variable "pat".(γνεσόÿÿÿÿ
+Nsquid:S1135$"2Complete the task associated to this TODO comment.(» ζÿÿÿÿÿ
+T
+squid:S106-"9Replace this use of System.out or System.err by a logger.(Ε°τϋÿÿÿÿ
+Dsquid:S1481'"(Remove this unused "pat" local variable.(γνεσόÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒτ£c
