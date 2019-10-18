@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1d8786f-d9f6-4900-985d-4ee504e97c50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/SapientPerCapita/java8/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/SapientPerCapita/java8/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/collection/streams/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/collection/streams/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/collection/streams/OCP8StudyGuide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/8/9/89db2d0a0a104971f8d3ab1e2495af176d95feef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/b/6/b64e83e9d9b5cf1d47ab532f4ab9661c72a29d51" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/e/1/e1a5482409ca852c0480d060243f77ffa81ed58a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/e/4/e493a9c1457ce6dc1c04eba4f0859f3bf53589e8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/e/b/eb751d89a815b4a4cd4d54e938e09ae96107daf4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/resources/.~lock.System_Output.csv#" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -38,6 +48,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ankur.training.java8.collection.streams" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -50,13 +65,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ZooCleaner">
-    <configuration name="Additions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ankur.training.java8.collection.apiadditions.Additions" />
+  <component name="RunManager" selected="Application.OCP8StudyGuide">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.training.java8.collection.streams.Application" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ankur.training.java8.collection.apiadditions.*" />
+          <option name="PATTERN" value="com.ankur.training.java8.collection.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ankur.training.java8.methodreferences.MethodReferences" />
+    <configuration name="OCP8StudyGuide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.training.java8.collection.streams.OCP8StudyGuide" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ankur.training.java8.methodreferences.*" />
+          <option name="PATTERN" value="com.ankur.training.java8.collection.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OCP8StudyGuide" />
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.ZooCleaner" />
         <item itemvalue="Application.Sample" />
         <item itemvalue="Application.DVD" />
-        <item itemvalue="Application.Additions" />
-        <item itemvalue="Application.MethodReferences" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +167,7 @@
       <workItem from="1570449075026" duration="534000" />
       <workItem from="1570450537762" duration="34000" />
       <workItem from="1571115646965" duration="4331000" />
-      <workItem from="1571299287637" duration="591000" />
+      <workItem from="1571299287637" duration="10886000" />
     </task>
     <servers />
   </component>
