@@ -1,0 +1,11 @@
+
+Dsquid:S4274D"(Replace this assert with a proper check.(½§²Ôıÿÿÿÿ
+psquid:S3012("YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¶Ú› 
+psquid:S3012o"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ñßïÿ
+5squid:S1659s"Declare "j" on a separate line.(ò°š'
+Nsquid:UnusedPrivateMethodR")Remove this unused private "exch" method.(ùƒãæ
+Dsquid:S42745"(Replace this assert with a proper check.(ëŒ—İüÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å½œ’
+Dsquid:S4274$"(Replace this assert with a proper check.(Ù§Ñüÿÿÿÿ
+5squid:S1659,"Declare "j" on a separate line.(ò°š'
+Dsquid:S4274#"(Replace this assert with a proper check.(©àÌÊùÿÿÿÿ

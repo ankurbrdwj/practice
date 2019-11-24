@@ -25,3 +25,9 @@ i
 9src/com/ankur/training/java8/methodreferences/RunRef.java,a/5/a5483b5629e7613d2af5fb52630762fb482f5a76
 t
 Dsrc/com/ankur/training/java8/methodreferences/MultipleArguments.java,c/e/ce0daef24c2f481992cb41e0d6ebca7455823753
+p
+@src/com/ankur/training/java8/collection/streams/Application.java,c/6/c603acda03cba0e0311ae825d7c1b3f6a5192560
+i
+9src/com/ankur/training/java8/collection/streams/Duck.java,d/d/dd8d99ebdbfc7e308a8e85d148c4d98ae9b93b80
+s
+Csrc/com/ankur/training/java8/collection/streams/OCP8StudyGuide.java,4/a/4ab6340f78fddb6f0821e783ef8fcda5c29fec52

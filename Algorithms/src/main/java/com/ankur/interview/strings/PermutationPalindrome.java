@@ -2,7 +2,9 @@ package com.ankur.interview.strings;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+is String a permutation odf palindrome/
+ */
 public class PermutationPalindrome {
     public static void main(String[] args) {
         String input = "tcacat";
@@ -18,7 +20,7 @@ public class PermutationPalindrome {
         int size = charArray.length;
         for (int i = 0; i < size; i++) {
             if (list.contains(charArray[i])) {
-                list.remove((Character)charArray[i]);
+                list.remove((Character) charArray[i]);
             } else {
                 list.add(charArray[i]);
             }

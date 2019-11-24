@@ -1,22 +1,22 @@
 
-gsquid:S00100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í­çÊ
-psquid:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¹‰Š
-nsquid:S00117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÿŞüÿÿÿÿ
-isquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÇÌ‚
-\squid:HiddenFieldChecky"5Rename "E" which hides the field declared at line 57.(úÿŞüÿÿÿÿ
-isquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÇÌ‚
-gsquid:S00100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÎÉ¥
-isquid:S00117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îûøï
-dsquid:S001168"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Øà
-Nsquid:S1135w"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
-isquid:S00117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øù£‡
-csquid:S00112O"FDefine and throw a dedicated exception instead of using a generic one.( Ä’¦şÿÿÿÿ
-nsquid:S00117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úƒ¡¼ùÿÿÿÿ
-Esquid:S2140R")Use "java.util.Random.nextInt()" instead.(«ĞûÊıÿÿÿÿ
-osquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òí»ãıÿÿÿÿ
-?squid:S2140Q")Use "java.util.Random.nextInt()" instead.(±†Û
-psquid:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ùŠÁ
-jsquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ï¤
-csquid:S00112@"FDefine and throw a dedicated exception instead of using a generic one.(ĞËš¿ÿÿÿÿÿ
 dsquid:S001169"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÍØ
+csquid:S00112@"FDefine and throw a dedicated exception instead of using a generic one.(ĞËš¿ÿÿÿÿÿ
+isquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÇÌ‚
+isquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÇÌ‚
+osquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òí»ãıÿÿÿÿ
+psquid:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ùŠÁ
+nsquid:S00117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úƒ¡¼ùÿÿÿÿ
+?squid:S2140Q")Use "java.util.Random.nextInt()" instead.(±†Û
+gsquid:S00100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í­çÊ
 Wsquid:HiddenFieldCheck\"5Rename "E" which hides the field declared at line 57.(Îûøï
+csquid:S00112O"FDefine and throw a dedicated exception instead of using a generic one.( Ä’¦şÿÿÿÿ
+isquid:S00117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îûøï
+nsquid:S00117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÿŞüÿÿÿÿ
+psquid:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¹‰Š
+\squid:HiddenFieldChecky"5Rename "E" which hides the field declared at line 57.(úÿŞüÿÿÿÿ
+gsquid:S00100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÎÉ¥
+dsquid:S001168"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Øà
+jsquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ï¤
+isquid:S00117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øù£‡
+Esquid:S2140R")Use "java.util.Random.nextInt()" instead.(«ĞûÊıÿÿÿÿ
+Nsquid:S1135w"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ

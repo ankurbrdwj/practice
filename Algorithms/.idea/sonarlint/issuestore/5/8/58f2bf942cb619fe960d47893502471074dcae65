@@ -1,0 +1,42 @@
+
+gsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(æóêßÿÿÿÿÿ
+@squid:S1481L")Remove this unused "node" local variable.(ıùúÎ
+hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(ŸòÍöøÿÿÿÿ
+gsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(ŸòÍöøÿÿÿÿ
+T
+squid:S106C"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+bsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(‚öâ÷
+T
+squid:S106J"9Replace this use of System.out or System.err by a logger.(ƒìîüıÿÿÿÿ
+gsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(ó·˜“øÿÿÿÿ
+bsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(ó·¡Î
+csquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(¸íÖ
+Xsquid:S2259c"BA "NullPointerException" could be thrown; "root" is nullable here.(´ª©g
+`squid:S39737"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+psquid:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(€íóÚ
+nsquid:S00117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‡…İûÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÁÚª·
+Isquid:S1172R"-Remove this unused method parameter "parent".(õŠÏ¾üÿÿÿÿ
+bsquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(ÁÚª·
+Nsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Ysquid:S2259i"BA "NullPointerException" could be thrown; "root" is nullable here.(Ã÷Ç…
+gsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(ó·˜“øÿÿÿÿ
+gsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(½ØÍÖøÿÿÿÿ
+hsquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(½ØÍÖøÿÿÿÿ
+gsquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(æóêßÿÿÿÿÿ
+bsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(¸íÖ
+hsquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(ëŸÒáøÿÿÿÿ
+bsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(Ç£¿ã
+gsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(ëŸÒáøÿÿÿÿ
+psquid:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(€íóÚ
+asquid:S3973‹"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+Nsquid:S1135S"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Nsquid:S1135X"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(ó·¡Î
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
+O
+squid:S106K"9Replace this use of System.out or System.err by a logger.(«”­
+O
+squid:S106D"9Replace this use of System.out or System.err by a logger.(«”­
+bsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(Ç£¿ã
+Xsquid:UnusedPrivateMethodR".Remove this unused private "printTree" method.(õŠÏ¾üÿÿÿÿ

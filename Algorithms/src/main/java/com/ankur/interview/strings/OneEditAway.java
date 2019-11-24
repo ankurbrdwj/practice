@@ -14,6 +14,6 @@ public class OneEditAway {
                 count++;
             }
         }
-        return (count > 1) ? false : true;
+        return count <= 1;
     }
 }

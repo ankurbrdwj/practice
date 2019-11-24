@@ -1,11 +1,11 @@
 
-msquid:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(ü…ŽÅùÿÿÿÿ
-Bsquid:S1068"+Remove this unused "notFull" private field.(ùÜ‘Ë
-hsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÊõÖË
-ssquid:S1488*"\Immediately return this expression instead of assigning it to the temporary variable "item".(«¤„ˆ
-T
-squid:S106("9Replace this use of System.out or System.err by a logger.(ü…ŽÅùÿÿÿÿ
-Hsquid:S1068",Remove this unused "notEmpty" private field.(›ÿšÛüÿÿÿÿ
-Usquid:S1155'">Use isEmpty() to check whether the collection is empty or not.(ÆñóØ
 O
 squid:S106"9Replace this use of System.out or System.err by a logger.(ÊõÖË
+msquid:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(ü…ŽÅùÿÿÿÿ
+Hsquid:S1068",Remove this unused "notEmpty" private field.(›ÿšÛüÿÿÿÿ
+T
+squid:S106("9Replace this use of System.out or System.err by a logger.(ü…ŽÅùÿÿÿÿ
+ssquid:S1488*"\Immediately return this expression instead of assigning it to the temporary variable "item".(«¤„ˆ
+Bsquid:S1068"+Remove this unused "notFull" private field.(ùÜ‘Ë
+hsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÊõÖË
+Usquid:S1155'">Use isEmpty() to check whether the collection is empty or not.(ÆñóØ
