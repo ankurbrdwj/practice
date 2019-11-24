@@ -13,13 +13,14 @@ public class CountCompress {
         }
         StringBuilder result = new StringBuilder();
         for (int j = 0; j < count.length; j++) {
-            char item =(char)j;
-            if(count[j] == 1){
+            char item = (char) j;
+            if (count[j] == 1) {
                 result.append(item);
-            }if(count[j]>1){
+            }
+            if (count[j] > 1) {
                 result.append(item).append(count[j]);
             }
         }
-        return result.length() == input.length() ?input:result.toString();
+        return result.length() == input.length() ? input : result.toString();
     }
 }

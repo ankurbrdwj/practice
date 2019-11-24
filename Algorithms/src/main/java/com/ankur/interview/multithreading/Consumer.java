@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.ankur.interview.multithreading;
 
@@ -8,21 +8,21 @@ package com.ankur.interview.multithreading;
  *
  */
 class Consumer extends Thread {
-	private BankAccount account;
+    private BankAccount account;
 
-	public Consumer(BankAccount acct) {
-		account = acct;
-	}
+    public Consumer(BankAccount acct) {
+        account = acct;
+    }
 
-	public void run() {
-		for (int i = 0; i < 5; i++) {
-			account.withdraw(10);
-		}
-	}
+    public void run() {
+        for (int i = 0; i < 5; i++) {
+            account.withdraw(10);
+        }
+    }
 
-	@Override
-	public String toString() {
-		return "Consumer [account=" + account + "]";
-	}
+    @Override
+    public String toString() {
+        return "Consumer [account=" + account + "]";
+    }
 
 }

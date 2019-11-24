@@ -14,6 +14,7 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+
 /*
 /convert sample input to sample out put
 if country is not present then use city name instead
@@ -33,26 +34,12 @@ public class Application {
         } catch (IOException e) {
             System.out.println(e);
         }
-        System.out.println(list);
-        Map<String, Map<Gender, Double>> result = list.stream()
-                .filter(income -> !income.getCountry().isEmpty())
-                .collect(Collectors.groupingBy(Income::getCountry,
-                        Collectors.groupingBy(Income::getGender,
-                                Collectors.averagingDouble(Income::getAverageIncome))));
-
-        System.out.println(result);
         Map<String, Map<Gender, Double>> list1 = list.stream()
-                .map(income -> {
-                    if (income.getCountry().isEmpty()) {
-                        income.setCountry(income.getCity());
-                    }
-                    return income;
-                })
+                .map(mapCity())
                 .collect(Collectors.groupingBy(Income::getCountry,
                         Collectors.groupingBy(Income::getGender,
                                 Collectors.averagingDouble(Income::getAverageIncome))));
         System.out.println(list1);
-
         List<AverageIncome> finalResult = new ArrayList<>();
         list1.forEach((s, entry) -> {
             entry.forEach((gender, income) -> {
@@ -76,16 +63,16 @@ public class Application {
         } catch (IOException e) {
             e.printStackTrace();
         }
-  /*      try {
-            File inputF = new File(filePath);
-            InputStream inputFS = new FileInputStream(inputF);
-            BufferedReader br = new BufferedReader(new InputStreamReader(inputFS));
-            // skip the header of the csv
-            List<Income> inputList = br.lines().skip(1).map(mapToItem).collect(Collectors.toList());
-            br.close();
-        } catch (IOException e) {
 
-        }*/
+    }
+
+    private static Function<Income, Income> mapCity() {
+        return income -> {
+            if (income.getCountry().isEmpty()) {
+                income.setCountry(income.getCity());
+            }
+            return income;
+        };
     }
 
 

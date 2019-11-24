@@ -1,27 +1,27 @@
 
-Ssquid:S1854">Remove this useless assignment to local variable "methodREfA".(×—Ã£
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ì¢„©
-Dsquid:S1481"/Remove this unused "methodREfA" local variable.(×—Ã£
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(þÅŠûøÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Àƒß¸
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(×Ý½5
-Nsquid:S3400"9Remove this method and declare a constant for this value.(Ø®ñŒ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(–ª É
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Àƒß¸
-=squid:S1604"(Make this anonymous inner class a lambda(×—Ã£
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(…ÐË0
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(‘€Úýÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Õ÷¸‹
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(º«˜î
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(þÅŠûøÿÿÿÿ
+O
+squid:S106 "9Replace this use of System.out or System.err by a logger.(º«˜î
+N
+squid:S1069"9Replace this use of System.out or System.err by a logger.(×Ý½5
+Fsquid:S1481"/Remove this unused "methodREfA" local variable.(×—Ã£
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì¢„©
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ª É
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(Àƒß¸
+?squid:S1604"(Make this anonymous inner class a lambda(×—Ã£
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘€Úýÿÿÿÿ
+O
+squid:S106("9Replace this use of System.out or System.err by a logger.(Àƒß¸
+Usquid:S1854">Remove this useless assignment to local variable "methodREfA".(×—Ã£
+Psquid:S3400-"9Remove this method and declare a constant for this value.(Ø®ñŒ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ÐË0
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Õ÷¸‹

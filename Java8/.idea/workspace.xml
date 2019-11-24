@@ -2,17 +2,290 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1d8786f-d9f6-4900-985d-4ee504e97c50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/collection/streams/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/collection/streams/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/collection/streams/OCP8StudyGuide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/8/9/89db2d0a0a104971f8d3ab1e2495af176d95feef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/b/6/b64e83e9d9b5cf1d47ab532f4ab9661c72a29d51" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/e/1/e1a5482409ca852c0480d060243f77ffa81ed58a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/e/4/e493a9c1457ce6dc1c04eba4f0859f3bf53589e8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/e/b/eb751d89a815b4a4cd4d54e938e09ae96107daf4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/resources/.~lock.System_Output.csv#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/0/6/0646a01bfddc04d4900bc953d51335b796f0a991" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/3/2/32d321a004c9b4427aa701f9aa79660d03a461fd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/4/8/4869d0f9fea4a475c470992759b8caecd952a9e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/5/8/58f2bf942cb619fe960d47893502471074dcae65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/9/b/9be7ca21f325cf801b6eb0f87ecd2372ca8bf1eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/d/a/da853f2f2e787cacd4c9d9b5d40c9d158e457284" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/e/0/e07030bdb71a532c17c2cc967dc2261c26301cf8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/arrays/ArrayRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/arrays/FourNumSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/arrays/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/arrays/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/arrays/SmallestDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/arrays/SockMerchant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/arrays/Triplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/arrays/TwoNumSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/dyanamicprog/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/dyanamicprog/MaxSubSetNonAdjacent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/dyanamicprog/PrintSumElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/dyanamicprog/SubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/hackerrank/CountDecodings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/hackerrank/KClosestPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/hackerrank/PartitionSubset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/hackerrank/RectangleIntersect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/hackerrank/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/hackerrank/goldmansachs/BSTSUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/hackerrank/rbs/ReverseSinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/hackerrank/sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/concurrency/reentrant/PrintConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/concurrency/reentrant/PrintOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/concurrency/reentrant/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/concurrency/reentrant/ZeroEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/concurrency/semaphore/SharedPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/concurrency/waitnotify/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/concurrency/waitnotify/TaskEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/UsingBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/lockcondition/MyBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/lockcondition/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/multithreading/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/multithreading/AccountDanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/multithreading/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/multithreading/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/multithreading/ConcurrencyLockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/multithreading/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/multithreading/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/multithreading/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/reentrant/PrintConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/reentrant/PrintOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/reentrant/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/reentrant/ZeroEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/semaphore/SharedPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/threadpools/FixedPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/waitnotify/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/waitnotify/TaskEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/consistenthash/ConsistentHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/consistenthash/HashFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/chainofresponsibility/Authentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/chainofresponsibility/SamlTokenProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/command/MoveCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/command/StopCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/creational/FactoryPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/structural/adapter/Json.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/structural/adapter/JsonWebRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/structural/adapter/WebClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/structural/adapter/WebRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/structural/adapter/WebService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/behavioral/chainofresponsibility/Chain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/behavioral/chainofresponsibility/ChainOfRespLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/behavioral/chainofresponsibility/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/factory/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/factory/ComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/factory/ComputerFactoryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/factory/ComputerSpecs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/factory/HomeComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/factory/ServerComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/genderfactory/FactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/genderfactory/Female.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/genderfactory/Male.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/genderfactory/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/genderfactory/PersonFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/mapper/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/mapper/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/mapper/facade/UserFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/creational/mapper/repo/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/exceptions/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/exceptions/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/exceptions/StaticImportDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/exceptions/ThrowingConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/exceptions/ThrowingFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/functional/exceptions/WebCrawler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/4/8/488a3551e0fb35b140686b0e494e1ed8fa728348" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/4/8/488a3551e0fb35b140686b0e494e1ed8fa728348" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/6/0/60984ff835ddb8e51b8b8afa2f7450eb8ffbe01a" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/6/0/60984ff835ddb8e51b8b8afa2f7450eb8ffbe01a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/6/b/6b3233f9accd49a7601820c8965fe3da37d1dd9d" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/6/b/6b3233f9accd49a7601820c8965fe3da37d1dd9d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/7/0/70ac98acca05f6f45392bca67f21af148fff482e" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/7/0/70ac98acca05f6f45392bca67f21af148fff482e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/7/c/7c991fb245382825453937eabb8867cf3e018edb" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/7/c/7c991fb245382825453937eabb8867cf3e018edb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/8/b/8bde18ceb80582a9d0bbc7a1ca4ee74f1959c392" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/8/b/8bde18ceb80582a9d0bbc7a1ca4ee74f1959c392" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/a/e/aeffa7e315ca14c671abcf41a63f4afeccf1d667" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/a/e/aeffa7e315ca14c671abcf41a63f4afeccf1d667" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/b/5/b5fa12305cc1aa0e4ba42d4c193ae49973ffbe3d" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/b/5/b5fa12305cc1aa0e4ba42d4c193ae49973ffbe3d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/d/1/d1fd11a6f1c843c6f11aa88fc6b1f7823fe69866" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/d/1/d1fd11a6f1c843c6f11aa88fc6b1f7823fe69866" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/FeeCalculator/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/BigBuyer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/StockData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/StockQuotes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/TradingFool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/adapter/RoundHole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/adapter/SquarePeg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/adapter/SquarePegAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/composite/Column.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/composite/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/composite/Composite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/composite/CompositeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/composite/Primitive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/composite/Row.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/facade/FacadeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/facade/Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/facade/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/facade/PointCarte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/facade/PointPolar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/proxy/ProxyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/proxy/ReportGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/proxy/ReportGeneratorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/proxy/SocketInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/proxy/SocketProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/design/singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/graphs/directed/DepthFirstOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/graphs/directed/DepthFirstOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/labyak/Labyak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/labyak/MyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/labyak/MySaxParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/labyak/YakShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/multithreading/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/multithreading/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/multithreading/AccountDanger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/multithreading/AccountDanger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/multithreading/ConcurrencyLockExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/multithreading/ConcurrencyLockExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/multithreading/Resource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/multithreading/Resource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/trees/binary/DistanceBetweenNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/interview/trees/binary/DistanceBetweenNodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/AccountDanger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/Deadlock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/Deadlock$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/Deadlock$Friend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/Deadlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/Drop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/MyJoin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/ProducerConsumerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/Resource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/SafeLock$Friend$BowLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/SafeLock$Friend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/SafeLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/SimpleThreads$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/SimpleThreads$MessageLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/SimpleThreads.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/SynchronizedRGB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/concurrency/AtomicCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/ankur/threads/concurrency/IncrementThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/FeeCalculator/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Servers/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Servers/.settings/org.eclipse.wst.server.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Servers/Tomcat v8.0 Server at localhost-config/catalina.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Servers/Tomcat v8.0 Server at localhost-config/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Servers/Tomcat v8.0 Server at localhost-config/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Servers/Tomcat v8.0 Server at localhost-config/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Servers/Tomcat v8.0 Server at localhost-config/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Servers/Tomcat v8.0 Server at localhost-config/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/AccountDanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/AccountDanger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/Deadlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/Deadlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/Drop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/Drop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/MyJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/MyJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/ProducerConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/ProducerConsumerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/Resource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/SafeLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/SafeLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/SimpleThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/SimpleThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/SynchronizedRGB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/SynchronizedRGB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/concurrency/AtomicCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/concurrency/AtomicCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/Threads/concurrency/IncrementThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/threads/concurrency/IncrementThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/BigBuyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/StockData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/StockQuotes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/TradingFool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/adapter/SquarePegAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/composite/CompositeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/facade/FacadeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/proxy/ProxyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/proxy/ProxyDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/proxy/ReportGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/proxy/ReportGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/proxy/ReportGeneratorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/proxy/ReportGeneratorImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/proxy/SocketInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/proxy/SocketProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/design/singleton/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/graphs/directed/DepthFirstOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/graphs/directed/DepthFirstOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/labyak/Labyak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/labyak/MyHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/labyak/MySaxParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/labyak/YakShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/labyak/input.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/AccountDanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/AccountDanger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/ConcurrencyLockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/ConcurrencyLockExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/multithreading/Resource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/sorting/noncompare/CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/sorting/noncompare/CountingSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/sorting/priorityqueues/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/sorting/priorityqueues/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/strings/CountCompress.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/strings/CountCompress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/strings/OneEditAway.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/strings/OneEditAway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/strings/PermutationPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/strings/PermutationPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/trees/binary/DistanceBetweenNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/trees/binary/DistanceBetweenNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b18483739e88dd83a05db63ac42b05291c9e068" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b18483739e88dd83a05db63ac42b05291c9e068" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/22255675a22252d4fe8f7a30878a7728394c8ba8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/22255675a22252d4fe8f7a30878a7728394c8ba8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b7745bac9f38ffc83dfa1da82aa7f7a6b7ab6a5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b7745bac9f38ffc83dfa1da82aa7f7a6b7ab6a5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5483b5629e7613d2af5fb52630762fb482f5a76" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5483b5629e7613d2af5fb52630762fb482f5a76" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/adea18832bc4dca4b8c69a0e52d2d7711f1cefc1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/adea18832bc4dca4b8c69a0e52d2d7711f1cefc1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c282e0415d240b979b12033f775e3cb92f5fe131" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c282e0415d240b979b12033f775e3cb92f5fe131" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce0daef24c2f481992cb41e0d6ebca7455823753" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce0daef24c2f481992cb41e0d6ebca7455823753" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/cyclicbarrier/ZooCleaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/concurrency/cyclicbarrier/ZooCleaner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/1/7/177eba9e0649b4d0a0f84bee7dcea63fd522032c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/3/4/346f8b55b1cd5899ac286daa39b77ce3b8ab6d70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/3/5/356352cc2c37e97928422a34b59ab62483f3b5b0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/6/4/642d8a606aa942a708a5bfb18a462e5f025ed5e1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/8/8/88caae5b4a32b4609c24162c06da90a84e8a1fd3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/8/9/89578f9e1b4c7c9b07132a1d3807b56084620fb8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/9/e/9e53f44887bd1a6a76c93b42d5b8988ae189b24f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/b/6/b64e83e9d9b5cf1d47ab532f4ab9661c72a29d51" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/b/6/b64e83e9d9b5cf1d47ab532f4ab9661c72a29d51" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/e/1/e1a5482409ca852c0480d060243f77ffa81ed58a" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/e/1/e1a5482409ca852c0480d060243f77ffa81ed58a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/e/4/e493a9c1457ce6dc1c04eba4f0859f3bf53589e8" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/e/4/e493a9c1457ce6dc1c04eba4f0859f3bf53589e8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/e/8/e87170ff7b859082dd6b854ddf5f8a7bfa3bf838" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/f/0/f095bf5cdb253bdce452d29a401639e4f5e37910" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/classes/chainofresponsibility.ChainOfResponsibilityTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/build/reports/tests/test/packages/chainofresponsibility.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/TEST-chainofresponsibility.ChainOfResponsibilityTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/SapientPerCapita/java7/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/SapientPerCapita/java7/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/SapientPerCapita/java8/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/SapientPerCapita/java8/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/chainofresponsibility/Authentication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/chainofresponsibility/AuthenticationProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/chainofresponsibility/AuthenticationProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/chainofresponsibility/AuthenticationProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/chainofresponsibility/AuthenticationProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/chainofresponsibility/OAuthProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/chainofresponsibility/OAuthProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/chainofresponsibility/OAuthTokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/chainofresponsibility/OAuthTokenProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/chainofresponsibility/SamlTokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/chainofresponsibility/SamlTokenProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/chainofresponsibility/UsernamePasswordProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/chainofresponsibility/UsernamePasswordProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/chainofresponsibility/UsernamePasswordProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/chainofresponsibility/UsernamePasswordProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/command/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/command/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/command/CommandBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/command/CommandBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/command/MoveCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/command/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/behavioral/command/RemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/command/StopCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/creational/immutable/Immutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/structural/creational/immutable/Immutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/creational/singleton/HayStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/structural/creational/singleton/HayStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/resources/System_Output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/resources/System_Output.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/test/java/chainofresponsibility/ChainOfResponsibilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/test/java/gangoffour/classic/behavioral/chainofresponsibility/ChainOfResponsibilityTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +310,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="GO_FMT" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549478602813" />
@@ -46,6 +321,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -65,7 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OCP8StudyGuide">
+  <component name="RunManager" selected="Application.FixedPool">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ankur.training.java8.collection.streams.Application" />
       <module name="Java8" />
@@ -79,12 +355,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DVD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ankur.training.java8.collection.streams.DVD" />
+    <configuration name="FixedPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.training.java8.concurrency.threadpools.FixedPool" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ankur.training.java8.collection.streams.*" />
+          <option name="PATTERN" value="com.ankur.training.java8.concurrency.threadpools.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +409,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FixedPool" />
         <item itemvalue="Application.OCP8StudyGuide" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.ZooCleaner" />
         <item itemvalue="Application.Sample" />
-        <item itemvalue="Application.DVD" />
       </list>
     </recent_temporary>
   </component>
@@ -167,8 +443,19 @@
       <workItem from="1570449075026" duration="534000" />
       <workItem from="1570450537762" duration="34000" />
       <workItem from="1571115646965" duration="4331000" />
-      <workItem from="1571299287637" duration="10886000" />
+      <workItem from="1571299287637" duration="11443000" />
+      <workItem from="1571730253844" duration="77000" />
+      <workItem from="1571841146441" duration="496000" />
+      <workItem from="1574356498519" duration="3456000" />
     </task>
+    <task id="LOCAL-00001" summary="OCP Guide Chaper 4 answers">
+      <created>1571391854930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571391854930</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +476,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="OCP Guide Chaper 4 answers" />
+    <option name="LAST_COMMIT_MESSAGE" value="OCP Guide Chaper 4 answers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

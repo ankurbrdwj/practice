@@ -1,8 +1,9 @@
 
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
-psquid:S3012("YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(´°©Ç
-Osquid:S1197"8Move the array designator from the variable to the type.(ÛÌ½Á
 O
-squid:S106"9Replace this use of System.out or System.err by a logger.(º¼É°
-Tsquid:S1197"8Move the array designator from the variable to the type.(Â¹‹§þÿÿÿÿ
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(º¼É°
+Tsquid:S1197"8Move the array designator from the variable to the type.(Â¹‹§þÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+psquid:S3012$"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(´°©Ç
+Osquid:S1197"8Move the array designator from the variable to the type.(ÛÌ½Á

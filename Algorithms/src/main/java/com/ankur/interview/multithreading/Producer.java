@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.ankur.interview.multithreading;
 
@@ -8,21 +8,21 @@ package com.ankur.interview.multithreading;
  *
  */
 class Producer extends Thread {
-	private BankAccount account;
+    private BankAccount account;
 
-	public Producer(BankAccount acct) {
-		account = acct;
-	}
+    public Producer(BankAccount acct) {
+        account = acct;
+    }
 
-	public void run() {
-		for (int i = 0; i < 5; i++) {
-			account.deposit(10);
-		}
-	}
+    public void run() {
+        for (int i = 0; i < 5; i++) {
+            account.deposit(10);
+        }
+    }
 
-	@Override
-	public String toString() {
-		return "Producer [account=" + account + "]";
-	}
+    @Override
+    public String toString() {
+        return "Producer [account=" + account + "]";
+    }
 
 }

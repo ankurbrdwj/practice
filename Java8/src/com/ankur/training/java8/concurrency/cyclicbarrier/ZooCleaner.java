@@ -19,7 +19,7 @@ public class ZooCleaner {
                             System.out.println("*** Pen Cleaned!");
                         }
                     });
-            for(int i=0; i<4; i++)
+            for (int i = 0; i < 4; i++)
                 service.submit(new Runnable() {
                     @Override
                     public void run() {
@@ -27,7 +27,7 @@ public class ZooCleaner {
                     }
                 });
         } finally {
-            if(service != null) service.shutdown();
+            if (service != null) service.shutdown();
         }
     }
 }
