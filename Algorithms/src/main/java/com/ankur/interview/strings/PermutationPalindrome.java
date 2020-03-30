@@ -7,7 +7,7 @@ is String a permutation odf palindrome/
  */
 public class PermutationPalindrome {
     public static void main(String[] args) {
-        String input = "tcacat";
+        String input = "abb";
         boolean isPermutation = findPalindromePermutationUsingArray(input.toCharArray());
         System.out.println(isPermutation);
         isPermutation = findPalindromePermutationUsingList(input.toCharArray());
@@ -16,7 +16,7 @@ public class PermutationPalindrome {
     }
 
     private static boolean findPalindromePermutationUsingList(char[] charArray) {
-        List list = new ArrayList<>();
+        List<Character> list = new ArrayList<>();
         int size = charArray.length;
         for (int i = 0; i < size; i++) {
             if (list.contains(charArray[i])) {
