@@ -1,5 +1,6 @@
 package com.ankur.interview.hackerrank;
 
+import java.util.LinkedHashMap;
 import java.util.Scanner;
 
 class FirstNonRepeatedCharacterEfficient {
@@ -41,4 +42,5 @@ class FirstNonRepeatedCharacterEfficient {
 class CharCountAndPosition{
     int firstIndex;
     int frequencyOfchar;
+    LinkedHashMap map = new LinkedHashMap();
 }
