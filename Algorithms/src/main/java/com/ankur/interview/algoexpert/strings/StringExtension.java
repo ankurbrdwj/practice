@@ -12,9 +12,9 @@ public class StringExtension {
         StringBuilder sb2 = encodeString(s2);
         int l = 0;
         while (l < sb1.length()) {
-            if (sb1.charAt(l) != sb2.charAt(l)) {
+            if (sb1.charAt(l) != sb2.charAt(l)) {       // character should match
                 return  false;
-            }else if(sb1.charAt(l+1) > sb2.charAt(l+1)){
+            }else if(sb1.charAt(l+1) > sb2.charAt(l+1)){ // the frequency in order should match
                 return false;
             }
             l=l+2;
