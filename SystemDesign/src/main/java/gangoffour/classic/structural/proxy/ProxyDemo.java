@@ -1,4 +1,4 @@
-package com.ankur.interview.design.proxy;
+package gangoffour.classic.structural.proxy;
 
 import java.io.BufferedReader;
 import java.io.IOException;
