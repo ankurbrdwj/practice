@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4e525c0-35ad-45f2-8837-39713169079b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/TwoNumberSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/StringExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trees/BSTSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trees/BinaryTreeTopologies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/arrays/TestBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/arrays/TestTwoNumSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/strings/TestStringExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/trees/BSTConstructionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/trees/TestBinaryTreeTopologies.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/CharCountAndPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/CharCountAndPosition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/FirstNonRepeatedCharacterEfficient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/FirstNonRepeatedCharacterEfficient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trees/BSTConstruction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trees/BSTConstruction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java8/out/production/Java8/com/ankur/training/java8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8/out/production/Java8/com/ankur/training/java8/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java8/src/com/ankur/training/java8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8/src/com/ankur/training/java8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java8/src/com/ankur/training/java8/collection/streams/Flattening.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8/src/com/ankur/training/java8/collection/streams/Flattening.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SystemDesign/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SystemDesign/build/resources/main/System_Output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/build/resources/main/System_Output.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/structural/proxy/ProxyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SystemDesign/src/main/java/gangoffour/classic/structural/proxy/ProxyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdd/src/main/java/org/example/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd/src/main/java/org/example/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdd/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdd/tdd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd/tdd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/StringExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/StringExtension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/strings/TestStringExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/strings/TestStringExtension.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,23 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBinaryTreeTopologies.TestCase2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ankur.interview.algoexpert.trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ankur.interview.algoexpert.trees" />
-      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.algoexpert.trees.TestBinaryTreeTopologies" />
-      <option name="METHOD_NAME" value="TestCase2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestBinaryTreeTopologies.TestCase3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithms" />
       <extension name="coverage">
@@ -177,6 +132,23 @@
       <option name="PACKAGE_NAME" value="com.ankur.interview.algoexpert.strings" />
       <option name="MAIN_CLASS_NAME" value="com.ankur.interview.algoexpert.strings.TestStringExtension" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStringExtension.testEncodeString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankur.interview.algoexpert.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ankur.interview.algoexpert.strings" />
+      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.algoexpert.strings.TestStringExtension" />
+      <option name="METHOD_NAME" value="testEncodeString" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -244,10 +216,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TestStringExtension.testIsExtension" />
+        <item itemvalue="JUnit.TestStringExtension.testEncodeString" />
         <item itemvalue="JUnit.TestStringExtension" />
         <item itemvalue="JUnit.TestTwoNumSum.TestCase9" />
         <item itemvalue="JUnit.TestBinaryTreeTopologies.TestCase3" />
-        <item itemvalue="JUnit.TestBinaryTreeTopologies.TestCase2" />
       </list>
     </recent_temporary>
   </component>
@@ -321,54 +293,62 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1580653982115" />
-    <state width="417" height="466" key="DebuggerActiveHint" timestamp="1586518790843">
+    <state width="434" height="466" key="DebuggerActiveHint" timestamp="1586537763002">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="417" height="466" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1586518790843" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1586519569992">
+    <state width="434" height="466" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1586537763002" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1586548584453">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586519569992" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1586519569990">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586548584453" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1586548584451">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586519569990" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1586519569989">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586548584451" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1586548584447">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586519569989" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1586519569991">
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586548584447" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1586548584452">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586519569991" />
-    <state width="1398" height="230" key="GridCell.Tab.1.bottom" timestamp="1586519569994">
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586548584452" />
+    <state width="1398" height="230" key="GridCell.Tab.1.bottom" timestamp="1586548586473">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586519569994" />
-    <state width="1398" height="230" key="GridCell.Tab.1.center" timestamp="1586519569993">
+    <state width="1398" height="230" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586548586473" />
+    <state width="1398" height="230" key="GridCell.Tab.1.center" timestamp="1586548586473">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1586519569993" />
-    <state width="1398" height="230" key="GridCell.Tab.1.left" timestamp="1586519569992">
+    <state width="1398" height="230" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1586548586473" />
+    <state width="1398" height="230" key="GridCell.Tab.1.left" timestamp="1586548586472">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1586519569992" />
-    <state width="1398" height="230" key="GridCell.Tab.1.right" timestamp="1586519569993">
+    <state width="1398" height="230" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1586548586472" />
+    <state width="1398" height="230" key="GridCell.Tab.1.right" timestamp="1586548586473">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1586519569993" />
+    <state width="1398" height="230" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1586548586473" />
     <state x="503" y="248" key="chooseDestDirectoryDialog" timestamp="1585467957476">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="503" y="248" key="chooseDestDirectoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1585467957476" />
-    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586028374931">
+    <state x="10" y="33" width="1420" height="857" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586536610738">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1586028374931" />
+    <state x="10" y="33" width="1420" height="857" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1586536610738" />
+    <state x="458" y="222" key="extract.method.dialog" timestamp="1586522305459">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="222" key="extract.method.dialog/0.23.1440.877@0.23.1440.877" timestamp="1586522305459" />
     <state x="375" y="225" width="689" height="472" key="find.popup" timestamp="1585488598431">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="375" y="225" width="689" height="472" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1585488598431" />
+    <state x="450" y="383" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1586538241594">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="450" y="383" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.877@0.23.1440.877" timestamp="1586538241594" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -494,19 +474,44 @@
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/strings/TestStringExtension.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/StringExtension.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="119" />
+          <line>10</line>
+          <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/strings/TestStringExtension.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="120" />
+          <line>18</line>
+          <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/StringExtension.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="122" />
+          <line>25</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/strings/TestStringExtension.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/strings/TestStringExtension.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/StringExtension.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/strings/TestStringExtension.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="143" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
