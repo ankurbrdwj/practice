@@ -10,8 +10,13 @@ public class Trie {
     public void insert(String word) {
         TrieNode current = root;
         for (int i = 0; i < word.length(); i++) {
-            current = current.getChildren()
-                    .computeIfAbsent(word.charAt(i), c -> new TrieNode());
+            char ch = word.charAt(i);
+            TrieNode node = current.getChildren().get(ch);
+            if (node == null) {
+                node = new TrieNode();
+                current.getChildren().put(ch, node);
+            }
+            current = node;
         }
         //mark the current nodes endOfWord as true
         current.setLeaf(true);
