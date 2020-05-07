@@ -1,7 +1,0 @@
-
-Nsquid:S1135	"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
-Esquid:S1481&")Remove this unused "list" local variable.(½áØÔùÿÿÿÿ
-fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ƒ‡
-Osquid:S1197""8Move the array designator from the variable to the type.(Öæ¿ë
-isquid:S00117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öæ¿ë
-usquid:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿ
