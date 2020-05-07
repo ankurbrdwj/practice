@@ -1,28 +1,0 @@
-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(×ß°âúÿÿÿÿ8ÏöÀ§Û-
-V
-squid:S106G"9Replace this use of System.out or System.err by a logger.(™²“õ8·†Ó§Û-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(™²“õ8µ¿§Û-
-V
-squid:S106="9Replace this use of System.out or System.err by a logger.(ì ã8””¾±Û-
-[
-squid:S106U"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ºÂ¢§Û-
-[
-squid:S106W"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ş ó¯Û-
-_squid:S3457"AFormat specifiers should be used instead of string concatenation.(çâƒ”8æÍ»¦Û-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ï‚á¦ùÿÿÿÿ8†Õ¼§Û-
-[
-squid:S106%"9Replace this use of System.out or System.err by a logger.(‹¯šùÿÿÿÿ8­›¬¯Û-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(çâƒ”8ğ†»¦Û-
-[squid:S1197J"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ôÃ¦Û-
-V
-squid:S1061"9Replace this use of System.out or System.err by a logger.(µÀó‘8¿â†°Û-
-V
-squid:S106@"9Replace this use of System.out or System.err by a logger.(ì ã8ĞÉ±Û-
-wsquid:S1192"YDefine a constant instead of duplicating this literal "========================" 3 times.(™²“õ8·†Ó§Û-
-V
-squid:S106-"9Replace this use of System.out or System.err by a logger.(™²“õ8ÏöÀ§Û-
