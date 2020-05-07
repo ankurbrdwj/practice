@@ -21,7 +21,7 @@ public class TrapRainWater {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] arr={0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1};
+		int[] arr={0, 8, 0, 0, 5, 0, 0, 10, 0, 0, 1, 1, 0, 3};
 		System.out.println(new TrapRainWater().trapWater(arr));
 
 	}
@@ -38,10 +38,8 @@ public class TrapRainWater {
 	    }
 	 public int trapWater(int[] height) {
 		    int result = 0;
-		 
 		    if(height==null || height.length<=2)
 		        return result;
-		 
 		    int left[] = new int[height.length];
 		    int right[]= new int[height.length];
 		 
@@ -49,7 +47,7 @@ public class TrapRainWater {
 		    int max = height[0];
 		    left[0] = height[0];
 		    for(int i=1; i<height.length; i++){
-		        if(height[i]<max){
+		        if(max>height[i]){
 		            left[i]=max;
 		        }else{
 		            left[i]=height[i];

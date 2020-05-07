@@ -2,13 +2,353 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4e525c0-35ad-45f2-8837-39713169079b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/lists/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trees/BSTClosest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/trees/BSTClosestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/BalancedBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/BuySellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/FindMaxPeakLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/PrintSpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ApartmentHunting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ArrayPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ArrayPermutations2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/CoinChangeProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/LevenshteinDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/MaxSubSequenceSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/PowerSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/lists/RemoveKthNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/StringPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trees/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trees/MaxPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trees/MinHeapApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trie/TrieConstruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trie/UkkonenSuffixTrie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/arrays/TestBalanceBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/arrays/TestMaxPeakLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/arrays/TestPrintSpiral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/dyanamicprogramming/TestArrayPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/dyanamicprogramming/TestArrayPermutations2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/dyanamicprogramming/TestLevenshtienDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/dyanamicprogramming/TestMinCoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/lists/TextRemoveKthNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/strings/TestGroupAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/strings/TestStringPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/trees/InvertBinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/trees/TestMinHeapApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Algorithms_Web_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/ctci/lists/DoublyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/ctci/lists/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ankur/interview/ctci/list/DoublyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/ctci/list/DoublyLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/ClosestPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/ClosestPair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/Complex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/Complex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/FFT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/FFT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/FarthestPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/FarthestPair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/GaussianElimination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/GaussianElimination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/GrahamScan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/GrahamScan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/Knapsack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/Knapsack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/Knapsack2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/beyond/Knapsack2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/clrs/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/clrs/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/clrs/Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/clrs/Interval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/clrs/IntervalComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/clrs/IntervalComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/clrs/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/clrs/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/clrs/chapter4/MaximumSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/clrs/chapter4/MaximumSubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/clrs/chapter4/StrassensMatrixMultiplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/clrs/chapter4/StrassensMatrixMultiplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/algorithmanalysis/DoublingRatio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/algorithmanalysis/DoublingRatio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/algorithmanalysis/DoublingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/algorithmanalysis/DoublingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/algorithmanalysis/Stopwatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/algorithmanalysis/Stopwatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/algorithmanalysis/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/algorithmanalysis/ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/algorithmanalysis/ThreeSumFast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/algorithmanalysis/ThreeSumFast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Bag$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Bag$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Bag$ListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Bag$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Bag$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Bag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Bag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/DoublyLinkedList$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/DoublyLinkedList$DoubleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/DoublyLinkedList$DoubleNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/DoublyLinkedList$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/DoublyLinkedList$ListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/DoublyLinkedList$ReverseIterable$ReverseListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/DoublyLinkedList$ReverseIterable$ReverseListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/DoublyLinkedList$ReverseIterable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/DoublyLinkedList$ReverseIterable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/DoublyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Evaluate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Evaluate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/EvaluatePostfix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/EvaluatePostfix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_29$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_29$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_29$ListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_29$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_29$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_37.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Ex_1_3_37.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/FixedCapacityStack$ReverseArrayIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/FixedCapacityStack$ReverseArrayIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/FixedCapacityStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/FixedCapacityStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/FixedCapacityStackOfStrings$ReverseArrayIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/FixedCapacityStackOfStrings$ReverseArrayIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/FixedCapacityStackOfStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/FixedCapacityStackOfStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/InfixToPostfix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/InfixToPostfix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/List$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/List$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/List$ListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/List$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/List$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Parentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Parentheses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Queue$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Queue$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Queue$ListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Queue$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Queue$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/ResizingArrayQueue$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/ResizingArrayQueue$QueueIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/ResizingArrayQueue$QueueIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/ResizingArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/ResizingArrayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/ResizingArrayStack$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/ResizingArrayStack$LIFOIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/ResizingArrayStack$LIFOIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/ResizingArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/ResizingArrayStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Stack$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Stack$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Stack$ListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Stack$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Stack$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Stats.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/bagsqueuestacks/Stats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Average.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Average.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/BouncingBall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/BouncingBall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_22a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_22a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_22b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_22b.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_27a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_27a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_27b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_27b.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_31.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_31.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_35.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_35.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_36$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_36$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_36$IShuffle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_36$IShuffle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_36.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_36.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_37$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_37$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_37.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_37.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_39.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Ex_1_1_39.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/RandomSeq.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/RandomSeq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Shuffle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/basicprogmodel/Shuffle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Accumulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Accumulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Date.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Interval1D$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Interval1D$LeftComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Interval1D$LeftComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Interval1D$LengthComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Interval1D$LengthComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Interval1D$RightComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Interval1D$RightComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Interval1D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Interval1D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Interval2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Interval2D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/MyRational.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/MyRational.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D$Atan2Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D$Atan2Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D$DistanceToOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D$DistanceToOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D$PolarOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D$PolarOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D$ROrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D$ROrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D$XOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D$XOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D$YOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D$YOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Point2D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Rational.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Rational.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/StaticSETofInts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/StaticSETofInts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/TestVisualAccumulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/TestVisualAccumulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Transaction$HowMuchOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Transaction$HowMuchOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Transaction$WhenOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Transaction$WhenOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Transaction$WhoOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Transaction$WhoOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/VarianceAccumulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/VarianceAccumulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Vector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Vector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/VisualAccumulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/VisualAccumulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Whitelist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/dataabstraction/Whitelist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/unionfind/QuickFindUF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/unionfind/QuickFindUF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/unionfind/QuickUnionUF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/unionfind/QuickUnionUF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/unionfind/UF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/unionfind/UF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/unionfind/WeightedQuickUnionUF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/fundamentals/unionfind/WeightedQuickUnionUF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/BreadthFirstDirectedPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/BreadthFirstDirectedPaths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/DepthFirstDirectedPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/DepthFirstDirectedPaths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/DepthFirstOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/DepthFirstOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/Digraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/Digraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/DirectedCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/DirectedCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/DirectedDFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/DirectedDFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/KosarajuSCC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/KosarajuSCC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/SymbolDigraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/SymbolDigraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/Topological.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/Topological.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/TransitiveClosure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/directed/TransitiveClosure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/minspanningtrees/BoruvkaMST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/minspanningtrees/BoruvkaMST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/minspanningtrees/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/minspanningtrees/Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/minspanningtrees/EdgeWeightedGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/minspanningtrees/EdgeWeightedGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/minspanningtrees/KruskalMST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/minspanningtrees/KruskalMST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/minspanningtrees/LazyPrimMST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/minspanningtrees/LazyPrimMST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/minspanningtrees/PrimMST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/minspanningtrees/PrimMST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/AcyclicLP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/AcyclicLP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/AcyclicSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/AcyclicSP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/Arbitrage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/Arbitrage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/BellmanFordSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/BellmanFordSP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/CPM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/CPM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/DijkstraAllPairsSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/DijkstraAllPairsSP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/DijkstraSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/DijkstraSP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/DirectedEdge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/DirectedEdge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/EdgeWeightedDigraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/EdgeWeightedDigraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/EdgeWeightedDirectedCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/shortestpaths/EdgeWeightedDirectedCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/AdjMatrixGraph$AdjIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/AdjMatrixGraph$AdjIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/AdjMatrixGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/AdjMatrixGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/Bipartite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/Bipartite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/BreadthFirstPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/BreadthFirstPaths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/CC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/CC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/Cycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/Cycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/DegreesOfSeparation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/DegreesOfSeparation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/DepthFirstPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/DepthFirstPaths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/DepthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/DepthFirstSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/SymbolGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/graphs/undirected/SymbolGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/AnagramString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/AnagramString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/BalancedParenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/BalancedParenthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Bill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Bill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/BreadthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/BreadthFirstSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/CeaserCipher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/CeaserCipher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/CharCountAndPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/CharCountAndPosition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/CommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/CommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Conditions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Conditions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/DataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/DataTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/DivisiblePairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/DivisiblePairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/EditDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/EditDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/FirstNonRepeatedCharacterEfficient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/FirstNonRepeatedCharacterEfficient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/FutureTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/FutureTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/ImmutableClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/ImmutableClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Kadane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Kadane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LCS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LevelOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LeveledList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LeveledList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LexicographicalOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LexicographicalOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LightHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LightHouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LongestCommonSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LongestCommonSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LoopList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/LoopList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MYGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MYGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MatchCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MatchCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MatchParenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MatchParenthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MatrixBfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MatrixBfs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MatrixChainMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MatrixChainMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MatrixGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MatrixGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MatrixMultiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MatrixMultiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MinDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MinDifference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/MyArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/NonRepeatingChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/NonRepeatingChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Prefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Prefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/RansomNote.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/RansomNote.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Replace20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Replace20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/RotateMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/RotateMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/SameSumSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/SameSumSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Snippet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/Snippet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/StockPrices.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/StockPrices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/SumCoins.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/SumCoins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/ThetaOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/ThetaOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/TrapRainWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/TrapRainWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/TreeTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/TreeTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/UniqueString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/UniqueString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/ZeroSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/ZeroSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/mcmwiki.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/hackerrank/mcmwiki.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/AccountDanger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/AccountDanger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/ConcurrencyLockExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/ConcurrencyLockExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/Resource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/multithreading/Resource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/balancedst/RedBlackBST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/balancedst/RedBlackBST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/balancedst/RedBlackBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/balancedst/RedBlackBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/bst/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/bst/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/bst/BST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/bst/BST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/bst/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/bst/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/bst/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/bst/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/bst/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/bst/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/bst/TreeTraversals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/bst/TreeTraversals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/symboltables/BinarySearchST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/symboltables/BinarySearchST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/symboltables/FrequencyCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/symboltables/FrequencyCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/symboltables/SET.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/symboltables/SET.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/symboltables/ST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/symboltables/ST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/symboltables/SequentialSearchST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/symboltables/SequentialSearchST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/symboltables/SequentialSearchST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/searching/symboltables/SequentialSearchST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/elementarysorts/Insertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/elementarysorts/Insertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/elementarysorts/Selection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/elementarysorts/Selection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/elementarysorts/Shell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/elementarysorts/Shell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/mergesort/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/mergesort/Merge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/mergesort/MergeBU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/mergesort/MergeBU.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/IndexMaxPQ$HeapIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/IndexMaxPQ$HeapIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/IndexMaxPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/IndexMaxPQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/IndexMinPQ$HeapIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/IndexMinPQ$HeapIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/IndexMinPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/IndexMinPQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/MaxPQ$HeapIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/MaxPQ$HeapIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/MaxPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/MaxPQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/MinPQ$HeapIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/MinPQ$HeapIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/MinPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/MinPQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/Multiway.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/Multiway.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/TopM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/priorityqueues/TopM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/quicksort/Quick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/quicksort/Quick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/quicksort/Quick3way.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/sorting/quicksort/Quick3way.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryDump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryDump.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryStdIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryStdIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryStdInTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryStdInTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryStdOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryStdOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryStdOutTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/BinaryStdOutTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/Copy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/Copy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/Draw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/Draw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/DrawListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/DrawListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/HexDump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/HexDump.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/In.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/In.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/Out.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/Out.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/Picture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/Picture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/PictureDump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/PictureDump.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdArrayIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdArrayIO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdAudio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdAudio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D$Camera.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D$Camera.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D$Light.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D$Light.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D$Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D$Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D$Transformable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D$Transformable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D$Vector3D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D$Vector3D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdDraw3D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdRandom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdStats.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/StdStats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/Stopwatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/stdlib/Stopwatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/SameLevelList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/SameLevelList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/ArrayToAllInterpretations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/ArrayToAllInterpretations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/ArrayToTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/ArrayToTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/CreateTreeFromParentArray$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/CreateTreeFromParentArray$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/CreateTreeFromParentArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/CreateTreeFromParentArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/DistanceBetweenNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/DistanceBetweenNodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/LeastCommonAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/LeastCommonAncestor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/LengthBetweenNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/LengthBetweenNodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/LevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/LevelOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/RecursiveFibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/RecursiveFibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/SerializeDeserializeBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/SerializeDeserializeBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/SerializeTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/SerializeTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/StringNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/StringNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/TreeBFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/TreeBFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/TreeFromParrentArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/TreeFromParrentArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/TreePathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/TreePathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/TreePrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/TreePrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/TreePrinterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/trees/binary/TreePrinterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/util/PrintArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/ankur/interview/util/PrintArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/TrapRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/hackerrank/TrapRainWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/TreePathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/trees/binary/TreePathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/tries/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/tries/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ankur/interview/util/PrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ankur/interview/util/PrintArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TrieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ankur/interview/tries/TrieTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +359,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="201" />
+    <option name="myElementSize" value="203" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -70,7 +410,7 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/ankur/interview" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -83,116 +423,104 @@
     <property name="show.unlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.ankur.interview.multithreading.concurrency" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ankur.interview.algoexpert" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert" />
       <recent name="$PROJECT_DIR$/src/main/java/com/ankur/interview/ctci" />
       <recent name="$PROJECT_DIR$/lib" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.ankur.interview.algoexpert" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ankur.interview.algoexpert.dyanamicprogramming" />
       <recent name="lists" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ankur.interview.multithreading.concurrency" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DoublyLinkedListTest">
+  <component name="RunManager" selected="Application.ApartmentHunting">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="ApartmentHunting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.algoexpert.dynamicprogramming.ApartmentHunting" />
+      <module name="Algorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankur.interview.algoexpert.dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BSTClosestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.algoexpert.trees.MaxPathSum" />
       <module name="Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ankur.interview.algoexpert.trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ankur.interview.algoexpert.trees" />
-      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.algoexpert.trees.BSTClosestTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoublyLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxSubSequenceSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.algoexpert.dynamicprogramming.MaxSubSequenceSum" />
       <module name="Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ankur.interview.ctci.list.*" />
+          <option name="PATTERN" value="com.ankur.interview.algoexpert.dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ankur.interview.ctci.list" />
-      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.ctci.list.DoublyLinkedListTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoublyLinkedListTest.TestCase2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TrapRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.hackerrank.TrapRainWater" />
       <module name="Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ankur.interview.ctci.list.*" />
+          <option name="PATTERN" value="com.ankur.interview.hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ankur.interview.ctci.list" />
-      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.ctci.list.DoublyLinkedListTest" />
-      <option name="METHOD_NAME" value="TestCase2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoublyLinkedListTest.TestCase3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TrieConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.algoexpert.trie.TrieConstruction" />
       <module name="Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ankur.interview.ctci.list.*" />
+          <option name="PATTERN" value="com.ankur.interview.algoexpert.trie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ankur.interview.ctci.list" />
-      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.ctci.list.DoublyLinkedListTest" />
-      <option name="METHOD_NAME" value="TestCase3" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoublyLinkedListTest.TestCase5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ankur.interview.ctci.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ankur.interview.ctci.list" />
-      <option name="MAIN_CLASS_NAME" value="com.ankur.interview.ctci.list.DoublyLinkedListTest" />
-      <option name="METHOD_NAME" value="TestCase5" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -224,11 +552,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DoublyLinkedListTest" />
-        <item itemvalue="JUnit.DoublyLinkedListTest.TestCase5" />
-        <item itemvalue="JUnit.DoublyLinkedListTest.TestCase3" />
-        <item itemvalue="JUnit.DoublyLinkedListTest.TestCase2" />
-        <item itemvalue="JUnit.BSTClosestTest" />
+        <item itemvalue="Application.ApartmentHunting" />
+        <item itemvalue="Application.MaxSubSequenceSum" />
+        <item itemvalue="Application.MaxPathSum" />
+        <item itemvalue="Application.TrapRainWater" />
+        <item itemvalue="Application.TrieConstruction" />
       </list>
     </recent_temporary>
   </component>
@@ -298,6 +626,18 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="128" width="813" height="666" key="#Project_Structure" timestamp="1587746489070">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="128" width="813" height="666" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1587746489070" />
+    <state x="553" y="370" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586697021323">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="553" y="370" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.877@0.23.1440.877" timestamp="1586697021323" />
+    <state x="398" y="146" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1588497018485">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="398" y="146" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.877@0.23.1440.877" timestamp="1588497018485" />
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580653982115">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -306,62 +646,70 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="528" y="340" width="387" height="242" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.877@0.23.1440.877" timestamp="1586629357880" />
-    <state x="483" y="175" key="#xdebugger.evaluate" timestamp="1586623036118">
+    <state x="483" y="175" key="#xdebugger.evaluate" timestamp="1588777077584">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="483" y="175" key="#xdebugger.evaluate/0.23.1440.877@0.23.1440.877" timestamp="1586623036118" />
-    <state width="461" height="466" key="DebuggerActiveHint" timestamp="1586677086154">
+    <state x="483" y="175" key="#xdebugger.evaluate/0.23.1440.877@0.23.1440.877" timestamp="1588777077584" />
+    <state width="495" height="466" key="DebuggerActiveHint" timestamp="1588785095791">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="461" height="466" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1586677086154" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1586677249114">
+    <state width="495" height="466" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1588785095791" />
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom" timestamp="1588784924730">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586677249114" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1586677249113">
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588784924730" />
+    <state width="1398" height="250" key="GridCell.Tab.0.center" timestamp="1588784924729">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586677249113" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1586677249112">
+    <state width="1398" height="250" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588784924729" />
+    <state width="1398" height="250" key="GridCell.Tab.0.left" timestamp="1588784924728">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586677249112" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1586677249113">
+    <state width="1398" height="250" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588784924728" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right" timestamp="1588784924730">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586677249113" />
-    <state width="1398" height="230" key="GridCell.Tab.1.bottom" timestamp="1586677249116">
+    <state width="1398" height="250" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588784924730" />
+    <state width="1398" height="250" key="GridCell.Tab.1.bottom" timestamp="1588784925394">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586677249116" />
-    <state width="1398" height="230" key="GridCell.Tab.1.center" timestamp="1586677249115">
+    <state width="1398" height="250" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588784925393" />
+    <state width="1398" height="250" key="GridCell.Tab.1.center" timestamp="1588784925389">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1586677249115" />
-    <state width="1398" height="230" key="GridCell.Tab.1.left" timestamp="1586677249114">
+    <state width="1398" height="250" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1588784925389" />
+    <state width="1398" height="250" key="GridCell.Tab.1.left" timestamp="1588784925385">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1586677249114" />
-    <state width="1398" height="230" key="GridCell.Tab.1.right" timestamp="1586677249116">
+    <state width="1398" height="250" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1588784925385" />
+    <state width="1398" height="250" key="GridCell.Tab.1.right" timestamp="1588784925391">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1586677249116" />
-    <state x="503" y="248" key="chooseDestDirectoryDialog" timestamp="1586629378071">
+    <state width="1398" height="250" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1588784925391" />
+    <state x="503" y="248" key="chooseDestDirectoryDialog" timestamp="1588421430672">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="503" y="248" key="chooseDestDirectoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1586629378071" />
-    <state x="10" y="33" width="1420" height="857" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586536610738">
+    <state x="503" y="248" key="chooseDestDirectoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1588421430672" />
+    <state x="10" y="33" width="1420" height="857" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588440446507">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="10" y="33" width="1420" height="857" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1586536610738" />
-    <state x="458" y="222" key="extract.method.dialog" timestamp="1586522305459">
+    <state x="10" y="33" width="1420" height="857" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1588440446507" />
+    <state x="458" y="222" key="extract.method.dialog" timestamp="1587842319342">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="458" y="222" key="extract.method.dialog/0.23.1440.877@0.23.1440.877" timestamp="1586522305459" />
-    <state x="375" y="225" width="689" height="472" key="find.popup" timestamp="1585488598431">
+    <state x="458" y="222" key="extract.method.dialog/0.23.1440.877@0.23.1440.877" timestamp="1587842319342" />
+    <state x="375" y="225" width="689" height="472" key="find.popup" timestamp="1588445890244">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="375" y="225" width="689" height="472" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1585488598431" />
+    <state x="375" y="225" width="689" height="472" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1588445890244" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1588418609180">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.877@0.23.1440.877" timestamp="1588418609180" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1586689399476">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1586689399476" />
     <state x="450" y="383" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1586538241594">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -560,20 +908,400 @@
           <line>197</line>
           <option name="timeStamp" value="163" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/arrays/TestPrintSpiral.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/PrintSpiralMatrix.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/PrintSpiralMatrix.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/arrays/TestMaxPeakLength.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/arrays/TestMaxPeakLength.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/arrays/TestMaxPeakLength.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/arrays/TestMaxPeakLength.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/arrays/TestMaxPeakLength.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/arrays/TestMaxPeakLength.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/FindMaxPeakLength.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/FindMaxPeakLength.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/BuySellStock.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/BuySellStock.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trees/InvertBinaryTree.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/trees/InvertBinaryTreeTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trees/InvertBinaryTree.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/dyanamicprogramming/TestMinCoin.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/CoinChangeProblem.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/CoinChangeProblem.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/dyanamicprogramming/TestLevenshtienDistance.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/LevenshteinDistance.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/LevenshteinDistance.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/LevenshteinDistance.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/trees/TestMinHeapApi.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/trees/TestMinHeapApi.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/trees/TestMinHeapApi.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/trees/TestMinHeapApi.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/trees/TestMinHeapApi.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/lists/TextRemoveKthNode.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/lists/RemoveKthNode.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/dyanamicprogramming/TestArrayPermutations.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ArrayPermutations.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ArrayPermutations.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/dyanamicprogramming/TestArrayPermutations.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ArrayPermutations.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ArrayPermutations.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/dyanamicprogramming/TestArrayPermutations.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ArrayPermutations.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/StringPermutations.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/StringPermutations.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/StringPermutations.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ArrayPermutations2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/dyanamicprogramming/TestArrayPermutations2.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ArrayPermutations2.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/util/PrintArray.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/PowerSet.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/algoexpert/arrays/TestBalanceBrackets.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/BalancedBrackets.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/BalancedBrackets.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/arrays/BalancedBrackets.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/LongestPalindrome.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/LongestPalindrome.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/GroupAnagrams.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/GroupAnagrams.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/GroupAnagrams.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/GroupAnagrams.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/GroupAnagrams.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/strings/GroupAnagrams.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trie/TrieConstruction.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/tries/Trie.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/tries/TrieTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ankur/interview/tries/TrieTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/tries/Trie.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trie/TrieConstruction.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trie/TrieConstruction.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/trees/MaxPathSum.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/MaxSubSequenceSum.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/MaxSubSequenceSum.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/MaxSubSequenceSum.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/MaxSubSequenceSum.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/MaxSubSequenceSum.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/MaxSubSequenceSum.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ApartmentHunting.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ApartmentHunting.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ApartmentHunting.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ankur/interview/algoexpert/dynamicprogramming/ApartmentHunting.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
-      <configuration name="Application">
-        <watch expression="A[i]" />
-        <watch expression="A[j]" />
-        <watch expression="result[i]" />
-        <watch expression="result[j]" />
+      <configuration name="JUnit">
+        <watch expression="a" />
       </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithms$DoublyLinkedListTest_TestCase5.ic" NAME="DoublyLinkedListTest.TestCase5 Coverage Results" MODIFIED="1586676999972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.ankur.interview.ctci.list.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Algorithms$TestMaxPeakLength.ic" NAME="TestMaxPeakLength Coverage Results" MODIFIED="1586711386161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ankur.interview.algoexpert.arrays.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Algorithms$DoublyLinkedListTest.ic" NAME="DoublyLinkedListTest Coverage Results" MODIFIED="1586677249071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.ankur.interview.ctci.list.*</FILTER>
