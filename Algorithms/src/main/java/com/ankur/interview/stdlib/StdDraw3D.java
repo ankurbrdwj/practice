@@ -894,7 +894,7 @@ KeyListener, ActionListener, ChangeListener, ComponentListener, WindowFocusListe
      *
      * @param w The width as a number of pixels.
      * @param h The height as a number of pixels.
-     * @throws a RuntimeException if the width or height is 0 or negative.
+     * @throws RuntimeException if the width or height is 0 or negative.
      */
     public static void setCanvasSize (int w, int h) {
 

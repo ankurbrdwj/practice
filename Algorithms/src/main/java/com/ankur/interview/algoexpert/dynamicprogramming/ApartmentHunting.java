@@ -14,11 +14,11 @@ public class ApartmentHunting {
         }
         for (int i = 0; i < blocks.size(); i++) {
 
-            for (String req:reqs) {
+            for (int j = 0; j < reqs.length; j++) {
                 int closest = Integer.MAX_VALUE;
                 for (int k = 0; k < blocks.size(); k++) {
                     Map<String, Boolean> block = blocks.get(k);
-                    boolean requirementInThisBlock = block.get(reqs);
+                    boolean requirementInThisBlock = block.get(reqs[j]);
                     if (requirementInThisBlock) {
                         closest = Math.min(closest, disBetween(i, k));
                     }
