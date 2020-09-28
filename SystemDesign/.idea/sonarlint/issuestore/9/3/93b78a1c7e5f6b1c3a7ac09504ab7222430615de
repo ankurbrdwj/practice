@@ -1,7 +1,0 @@
-
-xsquid:S3008"ZRename this field "ComputerFactory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÒ¥8ŠàÔ¤ß-
-usquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ø¬„ıÿÿÿÿ8Şƒ¾¤ß-
-Isquid:S3010
-",Remove this assignment of "ComputerFactory".(í²ì)8ÛæÊ¤ß-
-Rsquid:S2209
-"5Change this instance-reference to a static reference.(í²ì)8ÛæÊ¤ß-
