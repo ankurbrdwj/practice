@@ -31,3 +31,5 @@ i
 9src/com/ankur/training/java8/collection/streams/Duck.java,d/d/dd8d99ebdbfc7e308a8e85d148c4d98ae9b93b80
 s
 Csrc/com/ankur/training/java8/collection/streams/OCP8StudyGuide.java,4/a/4ab6340f78fddb6f0821e783ef8fcda5c29fec52
+g
+7src/com/ankur/training/java8/function/FunctionUtil.java,3/7/376be0149367c88da204d9d41d002d64ff7c1107

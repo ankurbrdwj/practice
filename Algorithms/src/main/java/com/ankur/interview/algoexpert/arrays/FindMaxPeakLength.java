@@ -11,7 +11,6 @@ public class FindMaxPeakLength {
                     count = currentLength;
                 }
             }
-
         }
         return count;
     }
