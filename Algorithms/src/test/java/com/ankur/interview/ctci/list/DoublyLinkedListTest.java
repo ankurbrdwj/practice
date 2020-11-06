@@ -1,6 +1,6 @@
 package com.ankur.interview.ctci.list;
 
-import com.ankur.interview.algoexpert.lists.LinkedList;
+import com.ankur.interview.algexp.lists.LinkedList;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
