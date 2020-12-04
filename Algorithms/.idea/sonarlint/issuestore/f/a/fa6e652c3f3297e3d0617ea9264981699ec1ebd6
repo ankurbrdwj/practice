@@ -1,0 +1,4 @@
+
+D
+java:S2140,")Use "java.util.Random.nextInt()" instead.(¾Å”²þÿÿÿÿ
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å½œ’
