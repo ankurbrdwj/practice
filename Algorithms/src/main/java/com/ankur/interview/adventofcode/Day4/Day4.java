@@ -15,7 +15,7 @@ public class Day4 {
     public static void main(String[] args) throws IOException {
 //		copy and paste the input data into a file and read from it
         System.out.println(System.getProperty("user.dir"));
-        List<String> data = Files.readAllLines(Paths.get("src/main/java/com/ankur/interview/adventofcode/Day4/input.txt"));
+                List<String> data = Files.readAllLines(Paths.get("src/main/java/com/ankur/interview/adventofcode/Day4/input.txt"));
         solutionToPart1(data);
 //        solutionToPart2(data);
     }
