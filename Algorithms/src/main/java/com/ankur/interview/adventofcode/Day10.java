@@ -1,20 +1,16 @@
-package com.ankur.interview.adventofcode.Day10;
+package com.ankur.interview.adventofcode;
 
 import com.ankur.interview.adventofcode.Day8.Accumulator;
 import com.ankur.interview.adventofcode.Day8.Computer;
 import com.ankur.interview.adventofcode.Day8.Instruction;
 import com.ankur.interview.adventofcode.Day8.Jumper;
 import com.ankur.interview.adventofcode.Day8.NoOperation;
+import org.w3c.dom.ls.LSOutput;
 
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.HashSet;
-import java.util.IntSummaryStatistics;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class Day10 {
@@ -35,7 +31,7 @@ public class Day10 {
         Collections.sort(intList, Comparator.naturalOrder());
         int diff1 = 0;
         int diff3 = 0;
-        int lastSelected =0;
+        int lastSelected = 0;
         for (int i = 0; i < intList.size(); i++) {
             if (intList.get(i) == lastSelected + 1) {
                 diff1++;
@@ -55,8 +51,8 @@ public class Day10 {
         System.out.println(deviceJolt);
         System.out.println(diff1);
         System.out.println(diff3);
-        System.out.println(diff1+diff3);
-        System.out.println(diff1*diff3);
+        System.out.println(diff1 + diff3);
+        System.out.println(diff1 * diff3);
         System.out.println(outletJolt);
     }
 
@@ -64,9 +60,49 @@ public class Day10 {
 
     }*/
 
-    private static void solvePart2(List<Integer> intList) {
+    static void solvePart2(List<Integer> intList) {
+        /*int count = 1;
+        Collections.sort(intList,Comparator.naturalOrder());
+        intList.add(0, 0);
+        intList.add(intList.get(intList.size()-1)+3);
+        for (int i = 0; i < intList.size()-2; i++) {
+            int pick = intList.get(i);
+            if(intList.get(i+2)- intList.get(i)<=3){
+                count++;
+            }
+        }
+        System.out.println(count);*/
+        Collections.sort(intList, Comparator.naturalOrder());
+        /*final long[] sums = new long[intList.get(intList.size() - 1) + 1];
+        sums[0] = 1;
+        for (int i = 0; i < intList.size(); i++) {
+            final long x = intList.get(i) >= 3 ? sums[intList.get(i) - 3] : 0;
+            final long y = intList.get(i) >= 2 ? sums[intList.get(i) - 2] : 0;
+            final long z = intList.get(i) >= 1 ? sums[intList.get(i) - 1] : 0;
+            sums[intList.get(i)] = x + y + z;
+        }
 
+        System.out.println(sums[sums.length - 1]);*/
+        int i = 0;
+        List<Long> sums = new ArrayList<>();
+        long result = dp(i, intList, sums);
     }
 
+    private static long dp(int i, List<Integer> list, List<Long> sums) {
+        if (i == list.size() - 1) {
+            return 1;
+        }
+        if (sums.contains(i)) {
+            for (Long j:sums) {
+                if(j==i){
+                    return j;
+                }
+            }
+        }
+        long ans=0;
+        for(int k=i+1;k<list.size();k++){
+            if(list.get(k)==list.get())
+        }
+    }
 
 }
