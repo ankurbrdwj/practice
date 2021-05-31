@@ -1,4 +1,4 @@
-package com.ankur.interview.algexp.arrays;
+package com.ankur.interview.adventofcode;
 
 import java.util.Scanner;
 
