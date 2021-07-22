@@ -16,7 +16,8 @@ public class TestContaining {
     public void testHint2() {
         HashMap<Character,Integer> frequency = Containing.getCharCount( "$$abf");
         Assert.assertTrue(frequency.size() > 0);
-        String subString = Containing.getSmallestSubstring(frequency,"abcd$ef$axb$c$");
+        String subString = Containing.getSmallestSubstring2("abcd$ef$axb$c$","$$abf");
+        Assert.assertTrue(subString.length() > 0);
     }
 }
 
