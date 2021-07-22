@@ -3,7 +3,7 @@ package com.ankur.interview.algexp.strings;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Underscorefy {
+public class Underscorify {
     public static String underscorifySubstring(String str, String substring) {
         // Write your code here.
         char[] a = str.toCharArray();
