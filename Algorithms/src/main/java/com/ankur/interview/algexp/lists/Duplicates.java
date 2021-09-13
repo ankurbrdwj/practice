@@ -1,18 +1,18 @@
-package com.ankur.interview.algexp.linkedlist;
+package com.ankur.interview.algexp.lists;
 
 public class Duplicates {
-    public static class LinkedList {
-        public int value;
-        public LinkedList next;
 
-        public LinkedList(int value) {
-            this.value = value;
-            this.next = null;
+    // list is sorted
+    public static SinglyLinkedList removeDuplicates(SinglyLinkedList root) {
+        SinglyLinkedList curr = root;
+        while (curr != null) {
+            SinglyLinkedList next = curr.next;
+            while (next != null && next.value == curr.value) {
+                next = next.next;
+            }
+            curr.next = next;
+            curr = next;
         }
-    }
-
-    public static LinkedList removeDuplicates(LinkedList list){
-        
         return null;
     }
 }
