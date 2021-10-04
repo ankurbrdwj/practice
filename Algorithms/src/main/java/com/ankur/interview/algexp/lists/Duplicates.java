@@ -10,9 +10,9 @@ public class Duplicates {
             while (next != null && next.value == curr.value) {
                 next = next.next;
             }
-            curr.next = next;
+            curr.next = next;// copy the entire list in new pointer curr
             curr = next;
         }
-        return null;
+        return curr;
     }
 }
