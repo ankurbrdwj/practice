@@ -17,7 +17,7 @@ public class TestBFS {
         graph.children.get(2).addChild("G").addChild("H");
         graph.children.get(0).children.get(1).addChild("I").addChild("J");
         graph.children.get(2).children.get(0).addChild("K");
-        String[] expected = {"A", "B", "E", "F", "I", "J", "C", "D", "G", "K", "H"};
+        String[] expected = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"};
         List<String> inputArray = new ArrayList<String>();
         Assertions.assertTrue(compare(graph.breadthFirstSearch(inputArray), expected));
     }
@@ -34,4 +34,3 @@ public class TestBFS {
         return true;
     }
 }
-

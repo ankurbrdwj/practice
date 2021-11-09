@@ -20,9 +20,7 @@ public class AlgoExpertBFS {
             while (!queue.isEmpty()) {
                 Node current = queue.poll();
                 array.add(current.name);
-                for (int i = 0; i < current.children.size(); i++) {
-                    queue.add(current.children.get(i));
-                }
+                queue.addAll(current.children);
             }
             return array;
         }
