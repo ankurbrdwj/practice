@@ -1,14 +1,0 @@
-
-N	java:S1069"9Replace this use of System.out or System.err by a logger.(ĞšËÒ
-S
-java:S11977"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-D
-java:S3740"/Provide the parametrized type for this generic.(ÎŠ¢]
-B
-java:S16129",Replace this lambda with a method reference.(ĞšËÒ
-L
-java:S18548"6Remove this useless assignment to local variable "sp".(†›¦¡
-=
-java:S14818"'Remove this unused "sp" local variable.(†›¦¡
-1
-java:S3626*"Remove this redundant jump.(ûÁİ…
