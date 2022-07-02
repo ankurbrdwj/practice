@@ -1,6 +1,6 @@
 package com.ankur.interview.hackerrank;
 
-import com.ankur.interview.fundamentals.dataabstraction.Point2D;
+import com.ankur.interview.princeton.fundamentals.dataabstraction.Point2D;
 
 import java.util.Arrays;
 import java.util.Comparator;
