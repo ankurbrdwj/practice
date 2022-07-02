@@ -1,6 +1,6 @@
 package com.ankur.interview.hackerrank;
 
-import com.ankur.interview.stdlib.StdOut;
+import com.ankur.interview.princeton.stdlib.StdOut;
 
 public class LCS {
 
@@ -56,10 +56,10 @@ public class LCS {
 			for (int j = 1; j<=n; j++) {
 				if (i == 0 || j == 0)
 			         opt[i][j] = 0;
-			  
+
 			       else if (x.charAt(i-1) == y.charAt(j-1))
 			       opt[i][j] = opt[i-1][j-1] + 1;
-			  
+
 			       else
 			         opt[i][j] = Math.max(opt[i-1][j], opt[i][j-1]);
 			}

@@ -1,9 +1,9 @@
 /**
- * 
+ *
  */
 package com.ankur.interview.hackerrank;
 
-import com.ankur.interview.fundamentals.bagsqueuestacks.Stack;
+import com.ankur.interview.princeton.fundamentals.bagsqueuestacks.Stack;
 
 import java.util.Iterator;
 
@@ -14,7 +14,7 @@ import java.util.Iterator;
 public class MatchParenthesis {
 private Stack<String> stack;
 	/**
-	 * 
+	 *
 	 */
 	public MatchParenthesis() {
 		// TODO Auto-generated constructor stub
@@ -32,9 +32,9 @@ private Stack<String> stack;
 
 		Iterator itr=mp.stack.iterator();
 		while(itr.hasNext()){
-			
+
 		}
-		
+
 	}
 
 }
