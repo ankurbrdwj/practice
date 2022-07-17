@@ -24,7 +24,7 @@ public class BSTClosest {
         return closest;
     }
 
-    static class BST {
+    public static class BST {
         public int value;
         public BST left;
         public BST right;

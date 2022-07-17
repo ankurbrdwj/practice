@@ -3,6 +3,8 @@
  */
 package com.ankur.interview.hackerrank;
 
+import com.ankur.interview.practice.trees.Node;
+
 /**
  * @author ankurbrdwj
  *
@@ -15,11 +17,11 @@ public class TreeTraversal {
 		 root = null;
 	}
 
-	 com.ankur.interview.practice.trees.Node root;
+	 Node root;
 
 	    /* Given a binary tree, print its nodes according to the
 	      "bottom-up" postorder traversal. */
-	    void printPostorder(com.ankur.interview.practice.trees.Node node)
+	    void printPostorder(Node node)
 	    {
 	        if (node == null)
 	            return;
@@ -35,7 +37,7 @@ public class TreeTraversal {
 	    }
 
 	    /* Given a binary tree, print its nodes in inorder*/
-	    void printInorder(com.ankur.interview.practice.trees.Node node)
+	    void printInorder(Node node)
 	    {
 	        if (node == null)
 	            return;
@@ -51,7 +53,7 @@ public class TreeTraversal {
 	    }
 
 	    /* Given a binary tree, print its nodes in preorder*/
-	    void printPreorder(com.ankur.interview.practice.trees.Node node)
+	    void printPreorder(Node node)
 	    {
 	        if (node == null)
 	            return;
@@ -75,11 +77,11 @@ public class TreeTraversal {
 	    public static void main(String[] args)
 	    {
 	    	TreeTraversal tree = new TreeTraversal();
-	        tree.root = new com.ankur.interview.practice.trees.Node(1);
-	        tree.root.left = new com.ankur.interview.practice.trees.Node(2);
-	        tree.root.right = new com.ankur.interview.practice.trees.Node(3);
-	        tree.root.left.left = new com.ankur.interview.practice.trees.Node(4);
-	        tree.root.left.right = new com.ankur.interview.practice.trees.Node(5);
+	        tree.root = new Node(1);
+	        tree.root.left = new Node(2);
+	        tree.root.right = new Node(3);
+	        tree.root.left.left = new Node(4);
+	        tree.root.left.right = new Node(5);
 
 	        System.out.println("Preorder traversal of binary tree is ");
 	        tree.printPreorder();

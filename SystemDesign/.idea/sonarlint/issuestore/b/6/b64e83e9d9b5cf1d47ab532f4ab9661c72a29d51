@@ -1,15 +1,0 @@
-
-[
-squid:S106$"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ÙÔèÉİ-
-Jsquid:S16029",Remove useless curly braces around statement(¾ãºÂ8â›”Ìİ-
-[
-squid:S106""9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8çÉİ-
-Fsquid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¦¶¨Ìİ-
-[
-squid:S106+"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8µÎ×Êİ-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯îá§
-V
-squid:S1066"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8„á®Ëİ-
-`squid:S2259%"BA "NullPointerException" could be thrown; "list" is nullable here.(†£É‡8Õ©Êİ-
-Usquid:S1611\"2Remove the parentheses around the "line" parameter(ØØÊ¯ıÿÿÿÿ8¦¶¨Ìİ-
-isquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(½‘Ñ³8¦¶¨Ìİ-

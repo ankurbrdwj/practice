@@ -1,7 +1,7 @@
 package com.ankur.interview.practice.trees;
 
 public class BSTConstruction {
-    static class BST {
+    public static class BST {
         public int value;
         public BST left;
         public BST right;

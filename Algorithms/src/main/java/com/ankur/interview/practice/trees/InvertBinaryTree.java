@@ -18,7 +18,7 @@ public class InvertBinaryTree {
         return root;
     }
 
-    static class BinaryTree {
+    public static class BinaryTree {
         public int value;
         public BinaryTree left;
         public BinaryTree right;

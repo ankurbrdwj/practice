@@ -34,7 +34,6 @@ public class BinaryTree {
 	}
 
 	public int  level(Node root,int data){
-
 		return depth(root,data,1)+1;
 	}
 
