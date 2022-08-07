@@ -14,23 +14,25 @@ public class FindSuccessor {
 
   public BinaryTree findSuccessor(BinaryTree tree, BinaryTree node) {
     // Write your code here.
-    if(node.right!=null) return getLeftMostChild(node.right);
+      if(node.right!=null) return getLeftMostChild(node.right);
 
-    return getRightMostParent(node);
-  }
-
-  public static BinaryTree getLeftMostChild (BinaryTree root){
-    BinaryTree runner = root;
-    if(runner.left!=null)
-      runner =runner.left;
-    return runner.left;
-  }
-  public static BinaryTree getRightMostParent(BinaryTree root){
-    BinaryTree runner = root;
-    while(runner.parent!=null && runner.parent.right == runner){
-      runner= runner.parent;
+      return getRightMostParent(node);
     }
-    return runner.parent;
+
+    public static BinaryTree getLeftMostChild (BinaryTree root){
+      BinaryTree runner = root;
+      while(runner.left!=null)
+        runner =runner.left;
+      return runner;
+    }
+
+    public static BinaryTree getRightMostParent(BinaryTree root){
+      BinaryTree runner = root;
+      while(runner.parent!=null && runner.parent.right == runner){
+        runner= runner.parent;
+      }
+      return runner.parent;
+    }
   }
-}
+
 

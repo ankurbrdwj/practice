@@ -1,4 +1,4 @@
-package com.ankur.interview.practice.arrays;
+package com.ankur.interview.practice.stacks;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

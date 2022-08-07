@@ -1,4 +1,4 @@
-package com.ankur.interview.practice.arrays;
+package com.ankur.interview.practice.stacks;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
