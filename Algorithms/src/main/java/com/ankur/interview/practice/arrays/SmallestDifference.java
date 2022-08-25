@@ -12,7 +12,7 @@ public class SmallestDifference {
         }    }
 
 
-    private static int[] smallestDifference(int[] a, int[] b) {
+    static int[] smallestDifference(int[] a, int[] b) {
         Arrays.sort(a);
         Arrays.sort(b);
         int x = 0, y = 0, smallest = Integer.MAX_VALUE, current = Integer.MAX_VALUE;
@@ -26,7 +26,7 @@ public class SmallestDifference {
             } else if (first > second) {
                 current = first - second;
                 y++;
-            } else {
+            } else { // both are equal
                 return new int[]{first, second};
             }
             if (smallest > current) {
