@@ -1,6 +1,12 @@
 package com.ankur.interview.codility;
 
 public class Sample {
+  /*
+  /Q2 : given and int in seconds convert it into String like week days hours minutes seconds
+But you have to round off to two units only
+7263 is 2h1m3s is too many units so round off to nearest smallest possible "2h2m"
+86461 is 1 day 1 minutes 1 sec 1d1m1s should be rounded off to "1d2m"
+   */
     public static String solution(int X) {
       // write your code in Java SE 8
       long secInWeek = 604800;
