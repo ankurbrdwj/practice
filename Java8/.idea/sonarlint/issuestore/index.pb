@@ -9,8 +9,6 @@ s
 Csrc/com/ankur/training/java8/methodreferences/MethodReferences.java,a/d/adea18832bc4dca4b8c69a0e52d2d7711f1cefc1
 j
 :src/com/ankur/training/java8/methodreferences/MyRules.java,c/2/c282e0415d240b979b12033f775e3cb92f5fe131
-s
-Csrc/com/ankur/training/java8/collection/apiadditions/Additions.java,4/6/4658870a30c9647bfd1fc5dbc83d140cf5c0fac2
 v
 Fsrc/com/ankur/training/java8/concurrency/cyclicbarrier/ZooCleaner.java,4/b/4b7745bac9f38ffc83dfa1da82aa7f7a6b7ab6a5
 l
@@ -33,3 +31,5 @@ s
 Csrc/com/ankur/training/java8/collection/streams/OCP8StudyGuide.java,4/a/4ab6340f78fddb6f0821e783ef8fcda5c29fec52
 g
 7src/com/ankur/training/java8/function/FunctionUtil.java,3/7/376be0149367c88da204d9d41d002d64ff7c1107
+s
+Csrc/com/ankur/training/java8/collection/apiadditions/Additions.java,4/6/4658870a30c9647bfd1fc5dbc83d140cf5c0fac2
