@@ -19,7 +19,8 @@ dependencies {
   implementation 'com.googlecode.princeton-java-algorithms:algorithms:4.0.1'
   implementation 'com.massisframework.j3d:java3d-core:1.6.0.1'
   implementation 'com.massisframework.j3d:vecmath:1.6.0.1'
-  testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    implementation 'org.junit.jupiter:junit-jupiter:5.8.1'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
 tasks.named('test') {

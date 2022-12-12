@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1d8786f-d9f6-4900-985d-4ee504e97c50" name="Default Changelist" comment="OCP Guide Chaper 4 answers">
-      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/collection/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/collection/model/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/collection/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ankur/training/java8/collection/model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/practice/dynamicprogramming/BuySellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/src/main/java/com/ankur/interview/practice/dynamicprogramming/BuySellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10ab10d69ab1234b4b9b6553d71caedbfacd2534" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/4658870a30c9647bfd1fc5dbc83d140cf5c0fac2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/ankurbrdwj/DriveC/Java/github.com/practice/Java8",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ankurbrdwj/DriveC/Java/github.com/practice/Java8&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.ankur.training.java8.collection.streams" />

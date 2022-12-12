@@ -29,3 +29,15 @@ s
 Csrc/com/ankur/training/java8/collection/streams/OCP8StudyGuide.java,4/a/4ab6340f78fddb6f0821e783ef8fcda5c29fec52
 g
 7src/com/ankur/training/java8/function/FunctionUtil.java,3/7/376be0149367c88da204d9d41d002d64ff7c1107
+s
+Csrc/com/ankur/training/java8/collection/apiadditions/Additions.java,4/6/4658870a30c9647bfd1fc5dbc83d140cf5c0fac2
+]
+-src/com/ankur/training/java8/ConflictDTO.java,1/0/10ab10d69ab1234b4b9b6553d71caedbfacd2534
+k
+;src/com/ankur/training/java8/collection/model/Customer.java,6/d/6de4f3865db0b904140c12dc370bf8a61610b4bb
+h
+8src/com/ankur/training/java8/collection/model/Order.java,5/6/56ee0e9543d7666cd119729b60ae9ed6e99ea753
+j
+:src/com/ankur/training/java8/collection/model/Product.java,1/2/12655a1dde46f2104f6b866a769973f4f20e2f01
+g
+7src/com/ankur/training/java8/collection/model/Main.java,1/4/14b42d446680dfd124fe24acf3d49deb1e5c7c95
