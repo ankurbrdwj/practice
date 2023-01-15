@@ -1,5 +1,6 @@
 package com.ankur.interview.practice.trees;
 
+import com.ankur.interview.practice.trees.binarysearchtrees.BSTConstruction;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

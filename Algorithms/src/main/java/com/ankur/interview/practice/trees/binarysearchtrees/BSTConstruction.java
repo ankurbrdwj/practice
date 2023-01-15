@@ -1,7 +1,10 @@
-package com.ankur.interview.practice.trees;
+package com.ankur.interview.practice.trees.binarysearchtrees;
+
+import com.ankur.interview.practice.trees.Node;
+import com.ankur.interview.practice.trees.TreePrinter;
 
 public class BSTConstruction {
-    public static class BST {
+    public static class BST implements Comparable<Object> {
         public int value;
         public BST left;
         public BST right;
@@ -127,6 +130,49 @@ public class BSTConstruction {
                 return validate(root.left, min, root.value) && validate(root.right, root.value, max);
             }
         }
+      /**
+       * Print the BST rooted at root, with indent preceding all output lines.
+       * The nodes are printed in in-order.
+       * @param root The root of the tree to be printed.
+       * @param indent The string to go before output lines.
+       */
+      private static void printHelper(BST root, String indent) {
+        if (root == null) {
+          System.out.println(indent + "null");
+          return;
+        }
+
+        // Pick a pretty indent.
+        String newIndent;
+        if (indent.equals("")) {
+          newIndent = ".. ";
+        }
+        else {
+          newIndent = "..." + indent;
+        }
+
+        printHelper(root.left, newIndent);
+        System.out.println(indent + root.value);
+        printHelper(root.right, newIndent);
+      }
+
+      @Override
+      public int compareTo(Object o) {
+        return 0;
+      }
+    }
+
+
+  public static void main(String[] args){
+      //
+      int[] arr = {1,4,7,8,12,24,28,32,35,37,38};
+      BST bst = new BST(0);
+      for(int i : arr){
+        bst.insert(i);
+      }
+    Node<BST> node = new Node();
+
+    TreePrinter.printNode(node);
     }
 }
 

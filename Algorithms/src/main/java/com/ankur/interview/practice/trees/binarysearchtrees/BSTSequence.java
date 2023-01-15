@@ -1,4 +1,4 @@
-package com.ankur.interview.practice.trees;
+package com.ankur.interview.practice.trees.binarysearchtrees;
 
 import java.util.LinkedList;
 import java.util.List;

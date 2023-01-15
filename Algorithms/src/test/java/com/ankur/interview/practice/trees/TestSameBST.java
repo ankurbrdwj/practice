@@ -1,5 +1,5 @@
 package com.ankur.interview.practice.trees;
-import org.junit.jupiter.api.Assertions;
+import com.ankur.interview.practice.trees.binarysearchtrees.AreSameBST;
 import org.junit.jupiter.api.Test;
 
 import java.util.*;
