@@ -1,7 +1,7 @@
 package com.ankur.interview.practice.trees.binarysearchtrees;
 
-import com.ankur.interview.practice.trees.Node;
-import com.ankur.interview.practice.trees.TreePrinter;
+import com.ankur.interview.practice.trees.binarytrees.Node;
+import com.ankur.interview.practice.trees.binarytrees.TreePrinter;
 
 public class BSTConstruction {
     public static class BST implements Comparable<Object> {

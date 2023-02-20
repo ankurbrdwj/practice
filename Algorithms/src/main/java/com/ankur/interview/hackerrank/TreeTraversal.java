@@ -3,7 +3,7 @@
  */
 package com.ankur.interview.hackerrank;
 
-import com.ankur.interview.practice.trees.Node;
+import com.ankur.interview.practice.trees.binarytrees.Node;
 
 /**
  * @author ankurbrdwj

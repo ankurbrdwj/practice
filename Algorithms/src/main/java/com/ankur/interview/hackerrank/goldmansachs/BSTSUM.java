@@ -1,7 +1,7 @@
 package com.ankur.interview.hackerrank.goldmansachs;
 
-import com.ankur.interview.practice.trees.BinaryTree;
-import com.ankur.interview.practice.trees.Node;
+import com.ankur.interview.practice.trees.binarytrees.BinaryTree;
+import com.ankur.interview.practice.trees.binarytrees.Node;
 
 import java.util.LinkedList;
 

@@ -1,6 +1,5 @@
 package com.ankur.interview.practice.trees.binarysearchtrees;
 
-import com.ankur.interview.princeton.stdlib.In;
 import java.util.Objects;
 
 public class ValidateThreeNodes {
@@ -30,9 +29,10 @@ public class ValidateThreeNodes {
       BSTGeneric<Integer> bst = new BSTGeneric<>();
       bst.root =bst.sortedArrayToBST(arr,0,arr.length-1);
       PrintTree.printNode(bst.root);
-      Node<Integer> one = new Node<>(7);
-      Node<Integer> two = new Node<>(8);
-      Node<Integer> three = new Node<>(12);
+
+      Node<Integer> one = bst.root.left;
+      Node<Integer> two =bst.root.left.right;
+      Node<Integer> three = bst.root.left.right.right;
 
       System.out.println(validateNodeRecursive(one,two,three));
     }
