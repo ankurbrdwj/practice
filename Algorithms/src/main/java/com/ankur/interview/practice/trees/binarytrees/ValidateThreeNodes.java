@@ -43,9 +43,13 @@ public class ValidateThreeNodes {
   }
 
   private boolean searchForTarget(BST node, BST target) {
-    while (node != null || target != null) {
-      node = (target.value > node.value) ? node.left : node.right;
+    while (node != null && target != null) {
+      if (node.value == target.value) {
+        return true;
+      }
+      node = (target.value > node.value) ? node.right : node.left;
     }
-    return node == target;
+    return false;
   }
+
 }
