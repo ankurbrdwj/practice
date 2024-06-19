@@ -1,49 +1,33 @@
 package com.ankur.interview.practice.lists;
 
 public class RemoveKthNode {
-
-    public static void removeKthNodeFromEnd(LinkedList head, int k) {
-        LinkedList current = head;
-        LinkedList next = head;
-        int count = 0;
-        LinkedList prev = next;
-        while (count < k) {
-            if (next == null) {
-                return ;
-            }
-            next = next.next;
-            count++;
-        }
-
-        if (next != null) {
-            while (next != null) {
-                next = next.next;
-                prev = current;
-                current = current.next;
-            }
-            // current is k
-            if (current.next != null) {
-                prev.next = current.next;
-                current = prev;
-            }else{// current is last element
-                prev.next = null;
-                current= prev;
-            }
-        } else {
-            // k == n  && current is still head
-            current = current.next;
-            head = head.next;
-        }
+  //blind75
+  public static void removeKthNodeFromEnd(LinkedList head, int k) {
+    LinkedList first = head;
+    LinkedList second = head;
+    int count = 1;
+    while (count <= k) {
+      second = second.next;
+      count++;
     }
-
-    static class LinkedList {
-        int value;
-        LinkedList next = null;
-
-        public LinkedList(int value) {
-            this.value = value;
-        }
+    if (second == null) {
+      head.value=head.next.value;
+      head.next=head.next.next;
+      return;
     }
+    while (second.next != null) {
+      second = second.next;
+      first = first.next;
+    }
+    first.next=first.next.next;
+  }
+
+  static class LinkedList {
+    int value;
+    LinkedList next = null;
+
+    public LinkedList(int value) {
+      this.value = value;
+    }
+  }
 }
-
-

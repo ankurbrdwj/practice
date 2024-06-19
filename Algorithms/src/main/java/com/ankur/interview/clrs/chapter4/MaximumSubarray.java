@@ -3,19 +3,19 @@ package com.ankur.interview.clrs.chapter4;
 import java.util.Arrays;
 
 public class MaximumSubarray {
-	
+	//blind75
 	static int[] findMaxSubArray(int[] input){
-		
+
 		int maxStartIndex = 0;
-		int maxEndIndex = 0; 
+		int maxEndIndex = 0;
 		int maxCumulative = 0;
 		int maxEntire = 0;
 		int startIndex = 0;
-		
+
 		for(int i = 0; i < input.length; i++) {
 			/*
 			 * /check when Sum goes zero in case of negative integers its likely to happen
-			 * the index and sum will restart from there 
+			 * the index and sum will restart from there
 			 */
 		      if(0 >= maxCumulative +input[i]) {
 		    	  startIndex = i+1;
@@ -44,7 +44,7 @@ public class MaximumSubarray {
 		int[] input = { 13, -3, -25, 20, -3, -16, -23, 18, 20, -7, 12, -5, -22, 15, -4, 7 };
 	for(Integer item:findMaxSubArray(input))
 		System.out.print(item+" ");
-		
+
 	}
 	}
 

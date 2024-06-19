@@ -3,7 +3,7 @@ package com.ankur.interview.practice.graphs;
 import java.util.ArrayList;
 import java.util.List;
 
-public class AlgoExpertDFS {
+public class DepthFirstSearch {
     // Do not edit the class below except
     // for the depthFirstSearch method.
     // Feel free to add new properties

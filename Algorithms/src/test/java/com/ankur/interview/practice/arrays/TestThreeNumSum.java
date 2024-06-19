@@ -23,7 +23,7 @@ public class TestThreeNumSum {
       List<List<Integer>> expected = new ArrayList<>();
       expected.add(Arrays.asList(-1, -1, 2));
       expected.add(Arrays.asList(-1, 0, 1));
-      List<List<Integer>> output = Triplets.findTriplets(new int[] {-1,0,1,2,-1,-4}, 0);
+      List<List<Integer>> output = ThreeNumberSum.findTriplets(new int[] {-1,0,1,2,-1,-4}, 0);
       Assertions.assertEquals(output, expected);
     }
   }

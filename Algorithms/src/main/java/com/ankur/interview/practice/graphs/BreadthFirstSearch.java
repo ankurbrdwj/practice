@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Deque;
 import java.util.List;
 
-public class AlgoExpertBFS {
+public class BreadthFirstSearch {
     static class Node {
         String name;
         List<Node> children = new ArrayList<>();

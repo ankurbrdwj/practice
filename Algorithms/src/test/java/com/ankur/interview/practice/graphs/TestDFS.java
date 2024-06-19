@@ -11,7 +11,7 @@ public class TestDFS {
 
     @Test
     public void TestCase1() {
-        AlgoExpertDFS.Node graph = new AlgoExpertDFS.Node("A");
+        DepthFirstSearch.Node graph = new DepthFirstSearch.Node("A");
         graph.addChild("B").addChild("C").addChild("D");
         graph.children.get(0).addChild("E").addChild("F");
         graph.children.get(2).addChild("G").addChild("H");

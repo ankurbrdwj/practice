@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Triplets {
+public class ThreeNumberSum {
+  //blind75
   public static void main(String[] args) {
     int[] a = {-6, -8, 12, 3, 1, 2, 5, 6};
     int target = 0;

@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 
-public class AlgoExpertRectMania {
+public class RectangleMania {
     public static int rectangleMania(Point[] coords) {
         Map<Point, Integer> countYLines = new HashMap<>();
         int answer = 0;

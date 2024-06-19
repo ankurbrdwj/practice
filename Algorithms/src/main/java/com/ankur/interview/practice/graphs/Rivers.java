@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Deque;
 import java.util.List;
 
-public class AlgoExpertRivers {
+public class Rivers {
 
 
     public static List<Integer> riverSizes(int[][] matrix) {

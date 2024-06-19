@@ -11,7 +11,7 @@ public class TestBFS {
 
     @Test
     public void TestCase1() {
-        AlgoExpertBFS.Node graph = new AlgoExpertBFS.Node("A");
+        BreadthFirstSearch.Node graph = new BreadthFirstSearch.Node("A");
         graph.addChild("B").addChild("C").addChild("D");
         graph.children.get(0).addChild("E").addChild("F");
         graph.children.get(2).addChild("G").addChild("H");

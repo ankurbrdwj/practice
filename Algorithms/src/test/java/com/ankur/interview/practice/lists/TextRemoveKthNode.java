@@ -96,7 +96,7 @@ public class TextRemoveKthNode {
             test.addMany(new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9});
             int[] expected = {1, 2, 3, 4, 5, 6, 7, 8, 9};
             RemoveKthNode.removeKthNodeFromEnd(test, 10);
-           // Assertions.assertTrue(compare(test.getNodesInArray(), expected));
+            Assertions.assertTrue(compare(test.getNodesInArray(), expected));
         }
 
         public boolean compare(List<Integer> arr1, int[] arr2) {

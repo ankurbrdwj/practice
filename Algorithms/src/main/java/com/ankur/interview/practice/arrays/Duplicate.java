@@ -1,6 +1,6 @@
 package com.ankur.interview.practice.arrays;
 
-public class duplicate {
+public class Duplicate {
     public  static int firstsDuplicateValue(int[] array) {
         for (int i = 0; i < array.length; i++) {
             int absValue =Math.abs(array[i]);

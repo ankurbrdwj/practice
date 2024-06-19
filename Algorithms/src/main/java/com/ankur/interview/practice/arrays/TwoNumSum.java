@@ -5,7 +5,9 @@ import java.util.Arrays;
 import java.util.List;
 
 public class TwoNumSum {
-    public static void main(String[] args) {
+  //blind75
+
+  public static void main(String[] args) {
         int[] input = {3, 5, -4, 8, 11, 1, -1, 6};
         int[] result = twoPointerTechnique(input, 10);
         Arrays.stream(result).forEach(System.out::println);

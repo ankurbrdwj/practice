@@ -1,7 +1,8 @@
 package com.ankur.interview.practice.lists;
 
 public class MergeSortedLinkedLists {
-  // This is an input class. Do not edit.
+  //#blind75
+
   public static class LinkedList {
     int value;
     LinkedList next;
@@ -27,11 +28,11 @@ public class MergeSortedLinkedLists {
         System.out.println(
           "First Pointer: " + l1.value + " is smaller than Second Pointer: " + l2.value);
         if (prev != null) {
-          System.out.println("Current smaller " + prev.value + "will become -->" + l1.value);
+          System.out.println("Current smaller " + prev.value + " will become -->" + l1.value);
         }
         prev = l1;
         if (l1.next != null) {
-          System.out.println("First Pointer " + l1.value + "will become -->" + l1.next.value);
+          System.out.println("First Pointer " + l1.value + " will become -->" + l1.next.value);
         }
         l1 = l1.next;
       } else {
