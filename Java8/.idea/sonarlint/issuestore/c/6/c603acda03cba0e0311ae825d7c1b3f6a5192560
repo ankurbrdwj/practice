@@ -1,15 +1,0 @@
-
-[
-squid:S106."9Replace this use of System.out or System.err by a logger.(®ı¡‚ÿÿÿÿÿ8êàÖëİ-
-Osquid:S1612%",Replace this lambda with a method reference.(˜é€ışÿÿÿÿ8ßş•Ùİ-
-Fsquid:S1481"(Remove this unused "sum" local variable.(‘ÃÌ“8¡ò×İ-
-Osquid:S1481$",Remove this unused "average" local variable.(„ üÿÿÿÿ8ßş•Ùİ-
-Lsquid:S1481")Remove this unused "list" local variable.(Ó¿Ã‚ùÿÿÿÿ8‘—Øİ-
-[
-squid:S106/"9Replace this use of System.out or System.err by a logger.(Æê›ãıÿÿÿÿ8Ó´Úëİ-
-Fsquid:S1148"#Use a logger to log this exception.(Ú¸ÿÿÿÿÿ8Û½‘Øİ-
-ksquid:S1192"HDefine a constant instead of duplicating this literal "mottled" 3 times.(Óñ‚Úÿÿÿÿÿ8ì¡Âëİ-
-[
-squid:S1060"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8èÜÛëİ-
-Osquid:S1612,",Replace this lambda with a method reference.(ÓåßÄüÿÿÿÿ8ËßÌëİ-
-Tsquid:S1481'"1Remove this unused "mottledDucks" local variable.(ÒÂĞ“şÿÿÿÿ8ì¡Âëİ-

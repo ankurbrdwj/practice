@@ -1,129 +1,0 @@
-
-V
-squid:S106P"9Replace this use of System.out or System.err by a logger.(ø•ŸÁ8‰Şñİ-
-V
-squid:S106."9Replace this use of System.out or System.err by a logger.(é£­ 8»åæïİ-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(È×¼8Œè›ïİ-
-V
-squid:S106f"9Replace this use of System.out or System.err by a logger.(Ûáªâ8ÔÏÄğİ-
-Osquid:S1481",Remove this unused "stream1" local variable.(ĞÆúäúÿÿÿÿ8ë‘Ìïİ-
-U
-squid:S106p"9Replace this use of System.out or System.err by a logger.(íæ8”½µñİ-
-Lsquid:S1481S")Remove this unused "istr" local variable.(ä„ëïüÿÿÿÿ8ÈÈİğİ-
-V
-squid:S106H"9Replace this use of System.out or System.err by a logger.(‰‘œ8Ê±‹ñİ-
-Dsquid:S1481d"&Remove this unused "u" local variable.(ÄïÓ8Ş§›ñİ-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ø•ŸÁ8ü‘¢ïİ-
-V
-squid:S106?"9Replace this use of System.out or System.err by a logger.(ÀÈ‹‘8»åæïİ-
-V
-squid:S106b"9Replace this use of System.out or System.err by a logger.(‡µ†Â8ÔÏÄğİ-
-Isquid:S1481e"&Remove this unused "f" local variable.(Â“·•ÿÿÿÿÿ8Şİ¤ñİ-
-[
-squid:S106W"9Replace this use of System.out or System.err by a logger.(øÇ˜Ìùÿÿÿÿ8¾Øğİ-
-[
-squid:S1066"9Replace this use of System.out or System.err by a logger.(Ì“úÿÿÿÿ8•ú‘ğİ-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(„Öíìüÿÿÿÿ8ü‘¢ïİ-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(«°Æ‰ùÿÿÿÿ8‘µÊïİ-
-V
-squid:S106E"9Replace this use of System.out or System.err by a logger.(ø•ŸÁ8»åæïİ-
-V
-squid:S106K"9Replace this use of System.out or System.err by a logger.(¤¥Ì“8ŸÂğİ-
-Dsquid:S3864i"!Remove this use of "Stream.peek".(ÃÇßáûÿÿÿÿ8…ïñİ-
-V
-squid:S106F"9Replace this use of System.out or System.err by a logger.(ŒˆÓ‘8»åæïİ-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(øÇ˜Ìùÿÿÿÿ8û­Ÿïİ-
-V
-squid:S106/"9Replace this use of System.out or System.err by a logger.(ª©ó¢8»åæïİ-
-V
-squid:S106J"9Replace this use of System.out or System.err by a logger.(ÔÇ8Èâˆñİ-
-ysquid:S4276e"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(Â“·•ÿÿÿÿÿ8Şİ¤ñİ-
-hsquid:S1192"JDefine a constant instead of duplicating this literal "Answer: F" 5 times.(ø•ŸÁ8åœ³ğİ-
-[
-squid:S106)"9Replace this use of System.out or System.err by a logger.(Š•Œáûÿÿÿÿ8»åæïİ-
-?squid:S3864B"!Remove this use of "Stream.peek".(ßˆ±ö8³ı¦ğİ-
-V
-squid:S106c"9Replace this use of System.out or System.err by a logger.(½§ö¡8ÔÏÄğİ-
-nsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(ëü’áÿÿÿÿÿ8¯†¬ğİ-
-Jsquid:S1481N"'Remove this unused "l3" local variable.(‘äÍ‡ûÿÿÿÿ8ç‘Ùğİ-
-Usquid:S3958S"2Refactor the code so this stream pipeline is used.(ä„ëïüÿÿÿÿ8¯¨ñİ-
-[
-squid:S106g"9Replace this use of System.out or System.err by a logger.(ù®†‡üÿÿÿÿ8©ñÄğİ-
-nsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(†¯¯úÿÿÿÿ8ÉêÙïİ-
-[
-squid:S106i"9Replace this use of System.out or System.err by a logger.(ÃÇßáûÿÿÿÿ8…ïñİ-
-Jsquid:S1481M"'Remove this unused "l2" local variable.(Ã¤¬´üÿÿÿÿ8ç‘Ùğİ-
-V
-squid:S1060"9Replace this use of System.out or System.err by a logger.(ø•ŸÁ8»åæïİ-
-tsquid:S4276d"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ÄïÓ8’É›ñİ-
-[
-squid:S106>"9Replace this use of System.out or System.err by a logger.(¶ÚÍÏúÿÿÿÿ8»åæïİ-
-nsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(„ÜæÊùÿÿÿÿ8‚²–ñİ-
-[
-squid:S106q"9Replace this use of System.out or System.err by a logger.(ËĞ·˜ıÿÿÿÿ8”½µñİ-
-[
-squid:S1061"9Replace this use of System.out or System.err by a logger.(é¬…Òıÿÿÿÿ8»åæïİ-
-V
-squid:S106j"9Replace this use of System.out or System.err by a logger.(ø•ŸÁ8©ñÄğİ-
-Esquid:S1481L"'Remove this unused "l1" local variable.(Œï½Ù8ç‘Ùğİ-
-nsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(ª´Úáùÿÿÿÿ8Õ«ğİ-
-V
-squid:S106a"9Replace this use of System.out or System.err by a logger.(ÚûÈî8ûò“ñİ-
-V
-squid:S106k"9Replace this use of System.out or System.err by a logger.(ªÔ”ë8”½µñİ-
-V
-squid:S106l"9Replace this use of System.out or System.err by a logger.(üŞÆ8”½µñİ-
-[
-squid:S106D"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ÎÄ¤ğİ-
-Lsquid:S1481".Remove this unused "predicate" local variable.(ğŸĞ¸8ìÚÔïİ-
-[
-squid:S106("9Replace this use of System.out or System.err by a logger.(—òÜÌüÿÿÿÿ8»åæïİ-
-Lsquid:S1611"/Remove the parentheses around the "s" parameter(°Œ8ª¶Ôïİ-
-V
-squid:S106m"9Replace this use of System.out or System.err by a logger.(Å¬ü›8”½µñİ-
-V
-squid:S106Z"9Replace this use of System.out or System.err by a logger.(‡ğµ8ÔÏÄğİ-
-V
-squid:S106-"9Replace this use of System.out or System.err by a logger.(‰€­”8ş›îïİ-
-Osquid:S1481",Remove this unused "stream2" local variable.(‘Ì®¤ùÿÿÿÿ8æ¤Ìïİ-
-[
-squid:S106Y"9Replace this use of System.out or System.err by a logger.(Ì“úÿÿÿÿ8ˆ“Ãğİ-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®üşœ8ë‘Ìïİ-
-V
-squid:S1067"9Replace this use of System.out or System.err by a logger.(ıµ·¹8»åæïİ-
-[
-squid:S106&"9Replace this use of System.out or System.err by a logger.(ì¿Ùÿÿÿÿÿ8ğ¡åïİ-
-V
-squid:S106#"9Replace this use of System.out or System.err by a logger.(ğÕ‘8¢Æ×ïİ-
-V
-squid:S106""9Replace this use of System.out or System.err by a logger.(Ûáªâ8ÿ¸Òïİ-
-V
-squid:S106="9Replace this use of System.out or System.err by a logger.(´¯åø8Õ«ğİ-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¸ºïó8ÿ¸Òïİ-
-V
-squid:S106Q"9Replace this use of System.out or System.err by a logger.(¨Ÿ”Ë8¨œñİ-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ªéèü8¬Ëšïİ-
-[
-squid:S106G"9Replace this use of System.out or System.err by a logger.(è‹šÁúÿÿÿÿ8¦÷»ğİ-
-V
-squid:S106X"9Replace this use of System.out or System.err by a logger.(öÎ©Î8Ùşñİ-
-Jsquid:S1481"'Remove this unused "b1" local variable.(Ë¿Üøÿÿÿÿ8¡•Úïİ-
-Lsquid:S1611"/Remove the parentheses around the "s" parameter(Ò‹œd8Œè›ïİ-
-[
-squid:S106*"9Replace this use of System.out or System.err by a logger.(‡¹Îˆûÿÿÿÿ8»åæïİ-
-V
-squid:S106B"9Replace this use of System.out or System.err by a logger.(ßˆ±ö8³ı¦ğİ-
-[
-squid:S106I"9Replace this use of System.out or System.err by a logger.(şø˜Ÿúÿÿÿÿ8Èâˆñİ-
-nsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(Ê§­“üÿÿÿÿ8ç‘Ùğİ-
-[
-squid:S106'"9Replace this use of System.out or System.err by a logger.(Š•Œáûÿÿÿÿ8ğ¡åïİ-
-[
-squid:S106;"9Replace this use of System.out or System.err by a logger.(‡¨€ôûÿÿÿÿ8Õ«ğİ-

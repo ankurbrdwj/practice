@@ -1,7 +1,0 @@
-
-Nsquid:S1481"+Remove this unused "stream" local variable.(ÍÆ¬üÿÿÿÿ8¥¿äŠÙ-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„¤¥Ç8ª˜ƒˆÙ-
-]squid:S1854":Remove this useless assignment to local variable "stream".(ÍÆ¬üÿÿÿÿ8¥¿äŠÙ-
-Qsquid:S1481".Remove this unused "convertor" local variable.(óËÊóûÿÿÿÿ8¿‹ñ‡Ù-
-`squid:S1854"=Remove this useless assignment to local variable "convertor".(óËÊóûÿÿÿÿ8¿‹ñ‡Ù-
-|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8¥¿äŠÙ-
