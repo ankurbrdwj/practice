@@ -7,7 +7,7 @@ public class ZeroSumSubArrays {
     for (int i = 0; i < nums.length; i++) {
       sum = sum + nums[i];
     }
-    result = sum == 0 ? true : false;
+    result = sum == 0;
     return result;
   }
 }

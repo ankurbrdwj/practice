@@ -1,8 +1,5 @@
 package com.ankur.interview.practice.lists;
 
-
-import javax.media.j3d.Link;
-
 public class ZipLinkedList {
   /*
   / we would need to find second half of linked list
