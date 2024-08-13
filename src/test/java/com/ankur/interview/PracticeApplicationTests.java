@@ -1,10 +1,10 @@
-package com.ankur.interview.Algorithms;
+package com.ankur.interview;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AlgorithmsApplicationTests {
+class PracticeApplicationTests {
 
 	@Test
 	void contextLoads() {
