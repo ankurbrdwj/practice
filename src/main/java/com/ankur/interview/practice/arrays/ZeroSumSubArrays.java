@@ -1,13 +1,17 @@
 package com.ankur.interview.practice.arrays;
 
+import java.util.HashSet;
+
 public class ZeroSumSubArrays {
   public static boolean zeroSum(int[] nums) {
-    int sum = 0;
-    boolean result = false;
+    int sumTillNow = 0;
+    HashSet<Integer> set =new HashSet<>();
     for (int i = 0; i < nums.length; i++) {
-      sum = sum + nums[i];
+      sumTillNow = sumTillNow + nums[i];
+      if(set.contains(sumTillNow))
+        return true;
+      set.add(sumTillNow);
     }
-    result = sum == 0;
-    return result;
+    return false;
   }
 }

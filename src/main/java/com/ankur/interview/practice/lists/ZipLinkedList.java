@@ -9,7 +9,7 @@ public class ZipLinkedList {
 
   public LinkedList zipLinkedList(
     LinkedList head) {
-    if(head !=null||head.next.next==null){
+    if(head.next == null || head.next.next == null){
       return head;
     }
     LinkedList firstHalf= head;
@@ -39,7 +39,7 @@ public class ZipLinkedList {
   private LinkedList splitLinkedList(LinkedList head) {
     LinkedList fastPointer= head;
     LinkedList slowPointer=head;
-    while(fastPointer == null || fastPointer.next!=null){
+    while(fastPointer != null && fastPointer.next!=null){
       slowPointer=slowPointer.next;
       fastPointer=fastPointer.next.next;
     }
@@ -47,16 +47,25 @@ public class ZipLinkedList {
     slowPointer.next=null;
     return secondHalf;
   }
-
+/*
+1.	Step 1: Save the next node (next = curr.next;)
+	•	Before breaking the current link, next temporarily stores the node that curr points to, allowing you to continue traversing the list after reversing the link.
+	2.	Step 2: Reverse the link (curr.next = prev;)
+	•	The key operation is reversing the next pointer of the current node (curr). Instead of pointing to the next node in the original list, curr.next is now pointed to prev, which reverses the direction of the list.
+	3.	Step 3: Move prev to curr (prev = curr;)
+	•	The prev pointer is updated to the current node (curr). This prepares prev to be used in the next iteration when reversing the next link.
+	4.	Step 4: Move curr to next (curr = next;)
+	•	Finally, curr is updated to the next node (which was stored in next). This continues the traversal of the list.
+ */
   private LinkedList reverseLinkedList(LinkedList head){
     LinkedList curr = head;
     LinkedList prev = null;
     LinkedList next;
     while (curr != null) {
-      next = curr.next;
-      curr.next = prev;
-      prev = curr;
-      curr = next;
+      next = curr.next;  // Step 1: Save the next node
+      curr.next = prev;  // Step 2: Reverse the link
+      prev = curr;       // Step 3: Move prev to curr
+      curr = next;       // Step 4: Move curr to next
     }
     return prev;
   }
