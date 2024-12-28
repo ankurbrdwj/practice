@@ -7,7 +7,7 @@ public class TestMajorityElement {
 
   @Test
   public void TestCase1() {
-    var input = new int[] {1, 2, 3, 2, 2, 1, 2};
+    var input = new int[] {1, 2, 3, 2, 2, 2,1};
     var expected = 2;
     var actual = MajorityArrayElement.majorityElement1(input);
     Assertions.assertEquals(expected, actual);
