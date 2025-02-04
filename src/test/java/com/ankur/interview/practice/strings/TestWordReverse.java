@@ -8,7 +8,7 @@ public class TestWordReverse {
   void testCase1(){
     String input = "the quick brown fox jumped over the lazy dog ";
     String result = WordReverse.reverseWordsInSentence(input);
-    String expected = "";
+    String expected = "eht kciuq nworb xof depmuj revo eht yzal god ";
     Assertions.assertEquals(expected,result);
   }
 }
