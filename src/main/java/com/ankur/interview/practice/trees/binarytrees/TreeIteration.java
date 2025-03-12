@@ -81,6 +81,7 @@ public class TreeIteration {
         tree.root.right = new Node(3);
         tree.root.left.left = new Node(4);
         tree.root.left.right = new Node(5);
+        //TreePrinter.printNode(tree);
         inOrder(tree.root);
         System.out.println();
         preOrder(tree.root);
