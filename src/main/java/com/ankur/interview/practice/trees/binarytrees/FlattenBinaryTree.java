@@ -1,9 +1,7 @@
 package com.ankur.interview.practice.trees.binarytrees;
 
-import com.ankur.interview.princeton.stdlib.BinaryIn;
 import java.util.ArrayList;
 import java.util.List;
-import jogamp.opengl.glu.nurbs.Bin;
 
 public class FlattenBinaryTree {
   /*
