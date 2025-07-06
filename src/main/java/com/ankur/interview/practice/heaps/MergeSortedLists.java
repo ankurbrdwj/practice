@@ -1,4 +1,4 @@
-package com.ankur.interview.practice.trees.binarytrees;
+package com.ankur.interview.practice.heaps;
 
 import java.util.ArrayList;
 import java.util.List;

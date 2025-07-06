@@ -1,6 +1,6 @@
 package com.ankur.interview.practice.trees.binarytrees;
 
-import com.ankur.interview.practice.trees.binarytrees.MinHeapApi;
+import com.ankur.interview.practice.heaps.MinHeapApi;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

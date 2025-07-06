@@ -1,4 +1,4 @@
-package com.ankur.interview.practice.trees.binarytrees;
+package com.ankur.interview.practice.heaps;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,8 +7,8 @@ import java.util.List;
 // siftDown, siftUp, peek, remove, and insert methods.
 // Feel free to add new properties and methods to the class.
 public class MinHeapApi {
-    static class MinHeap {
-        List<Integer> heap = new ArrayList<Integer>();
+    public static class MinHeap {
+        public List<Integer> heap = new ArrayList<Integer>();
 
         public MinHeap(List<Integer> array) {
             heap = buildHeap(array);

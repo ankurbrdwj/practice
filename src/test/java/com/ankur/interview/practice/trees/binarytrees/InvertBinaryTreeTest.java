@@ -1,6 +1,5 @@
 package com.ankur.interview.practice.trees.binarytrees;
 
-import com.ankur.interview.practice.trees.binarytrees.InvertBinaryTree;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -113,6 +112,7 @@ public class InvertBinaryTreeTest {
         public void TestCase11() {
             TestBinaryTree test11 = new TestBinaryTree(1);
             test11.insert(new int[] {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18}, 0);
+
             InvertBinaryTree.invertBinaryTree(test11);
             InvertedBinaryTree invertedTest11 = new InvertedBinaryTree(1);
             invertedTest11.insert(
