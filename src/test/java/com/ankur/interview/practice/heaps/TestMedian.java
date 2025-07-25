@@ -1,6 +1,5 @@
-package com.ankur.interview.practice.trees.binarytrees;
+package com.ankur.interview.practice.heaps;
 
-import com.ankur.interview.practice.heaps.Median;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

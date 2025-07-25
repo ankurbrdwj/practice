@@ -8,6 +8,8 @@ class PracticeApplicationTests {
 
 	@Test
 	void contextLoads() {
-	}
+    String s= "Hello World";
+
+  }
 
 }
