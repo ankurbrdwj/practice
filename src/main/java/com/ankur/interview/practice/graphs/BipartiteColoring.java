@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 public class BipartiteColoring {
-    public Object twoColorable(int[][] input) {
+    public boolean twoColorable(int[][] input) {
         int [] color = new int[input.length];
         Deque<Integer> stack = new ArrayDeque<>();
         stack.push(0);
