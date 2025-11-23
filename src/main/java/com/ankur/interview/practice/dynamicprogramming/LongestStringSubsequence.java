@@ -1,7 +1,5 @@
 package com.ankur.interview.practice.dynamicprogramming;
 
-import com.jogamp.common.util.ArrayHashSet;
-
 import java.util.ArrayList;
 import java.util.List;
 

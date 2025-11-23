@@ -86,5 +86,13 @@ public class TestTwoNumSum {
             Arrays.sort(output);
            //  TODO  Assertions.assertTrue(Arrays.equals(output, expected));
         }
+
+    @Test
+    public void TestCase11() {
+        int[] expected = {0,1};
+        int[] output = LeetTwoSum.twoSumUnsorted(new int[]{0,0}, 0);
+        Arrays.sort(output);
+        Assertions.assertTrue(Arrays.equals(output, expected));
+    }
     }
 
