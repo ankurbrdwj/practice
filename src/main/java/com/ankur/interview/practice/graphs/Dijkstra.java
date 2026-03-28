@@ -16,7 +16,7 @@ public class Dijkstra {
         Set<Integer> visited = new HashSet<>();
         // extract min and relax
         while (visited.size() != noOfVertices) {
-            // ervery time get min and move from there
+            // every time get min and move from there
             int[] minVertex = extractMin(minDistances, visited);
             int vertex = minVertex[0];
             int currentMinDistance = minVertex[1];
