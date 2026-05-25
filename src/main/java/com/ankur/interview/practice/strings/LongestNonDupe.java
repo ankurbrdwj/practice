@@ -7,11 +7,6 @@ public class LongestNonDupe {
     public static String longestSubstringWithoutDuplication(String str) {
         // Write your code here
         char[] a = str.toCharArray();
-        Map<Character, Integer> map = new HashMap<>();
-        int length = Integer.MIN_VALUE;
-        for (int i = 0; i < a.length; i++) {
-            map.put(a[i], str.lastIndexOf(a[i]));
-        }
         StringBuilder result = new StringBuilder();
         for (int i = 0; i < a.length; i++) {
             StringBuilder current = new StringBuilder();

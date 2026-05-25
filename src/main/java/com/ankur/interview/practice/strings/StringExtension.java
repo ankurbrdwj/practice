@@ -10,6 +10,25 @@ public class StringExtension {
     but is s1: hello and s2: hhhhheeeeeeeloooooo th return false
      */
 
+    // s2 is extension of s1 if:
+    // - same sequence of character groups
+    // - each group in s2 has count >= corresponding group in s1
+    // "hello" -> groups: (h,1),(e,1),(l,2),(o,1)
+    // "heellooo" -> groups: (h,1),(e,2),(l,2),(o,3)  -> extension: true
+    // "hhhhheeeeeeeloooooo" -> groups: (h,5),(e,7),(l,1),(o,6) -> l=1 < 2: false
+    public static boolean isStringExtension(String s1, String s2) {
+        int i = 0, j = 0;
+        while (i < s1.length() && j < s2.length()) {
+            if (s1.charAt(i) != s2.charAt(j)) return false;
+            char ch = s1.charAt(i);
+            int count1 = 0, count2 = 0;
+            while (i < s1.length() && s1.charAt(i) == ch) { count1++; i++; }
+            while (j < s2.length() && s2.charAt(j) == ch) { count2++; j++; }
+            if (count2 < count1) return false;
+        }
+        return i == s1.length() && j == s2.length();
+    }
+
     public boolean isExtension(String s1, String s2) {
         StringBuilder sb1 = encodeString(s1);
         StringBuilder sb2 = encodeString(s2);
@@ -25,6 +44,17 @@ public class StringExtension {
         return true;
     }
 
+    // Encodes a string into (char, frequency) pairs.
+    // input:  "heellooo"
+    // output: "h1e2l2o3"
+    //
+    // Trace with "heellooo":
+    //
+    //   l=0  array[l]='h'  r=0→1  freq=1  → append 'h','1'  l=1   result="h1"
+    //   l=1  array[l]='e'  r=1→3  freq=2  → append 'e','2'  l=3   result="h1e2"
+    //   l=3  array[l]='l'  r=3→5  freq=2  → append 'l','2'  l=5   result="h1e2l2"
+    //   l=5  array[l]='o'  r=5→8  freq=3  → append 'o','3'  l=8   result="h1e2l2o3"
+    //   l=8  == array.length → stop
     public StringBuilder encodeString(String input) {
         StringBuilder result = new StringBuilder();
         char[] array = input.toCharArray();

@@ -1,27 +1,35 @@
 package com.ankur.interview.practice.graphs;
 
+import java.util.HashSet;
+import java.util.Set;
+
+/*
+ * Longest Consecutive Sequence (LeetCode 128) — HashSet
+ *
+ * Add all numbers to a HashSet for O(1) lookup.
+ * For each number n, only start counting if n-1 is NOT in the set
+ * (meaning n is the start of a sequence). Then extend n+1, n+2, ... as far
+ * as possible. This ensures each sequence is counted exactly once.
+ *
+ * Time  O(n)  — each element is visited at most twice (outer loop + inner while)
+ * Space O(n)
+ *
+ * Example: [100,4,200,1,3,2] → 4  (sequence 1,2,3,4)
+ */
 public class LongestConsecutiveSequence {
-  /*
-  /Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
 
-You must write an algorithm that runs in O(n) time.
+    public int longestConsecutive(int[] nums) {
+        Set<Integer> set = new HashSet<>();
+        for (int n : nums) set.add(n);
 
-
-
-Example 1:
-
-Input: nums = [100,4,200,1,3,2]
-Output: 4
-Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
-Example 2:
-
-Input: nums = [0,3,7,2,5,8,4,6,0,1]
-Output: 9
-
-
-Constraints:
-
-0 <= nums.length <= 105
--109 <= nums[i] <= 109
-   */
+        int max = 0;
+        for (int n : set) {
+            if (!set.contains(n - 1)) {
+                int len = 1;
+                while (set.contains(n + len)) len++;
+                max = Math.max(max, len);
+            }
+        }
+        return max;
+    }
 }

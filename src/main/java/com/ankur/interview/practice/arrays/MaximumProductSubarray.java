@@ -1,37 +1,30 @@
 package com.ankur.interview.practice.arrays;
 
-public class MaximumProductSubarray{
-  //blind75
-  /*
-  Given an integer array nums, find the
-subarray
- with the largest sum, and return its sum.
+/*
+ * Maximum Product Subarray (LeetCode 152) — DP with min/max tracking
+ *
+ * Unlike max sum, a negative number can flip the sign and become the new max.
+ * Track both the running max AND min product ending at each index.
+ * When the current element is negative, swap max and min before extending.
+ *
+ * Time  O(n)
+ * Space O(1)
+ *
+ * Example: [2,3,-2,4] → 6  (subarray [2,3])
+ * Example: [-2,0,-1]  → 0
+ */
+public class MaximumProductSubarray {
 
-
-
-Example 1:
-
-Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
-Output: 6
-Explanation: The subarray [4,-1,2,1] has the largest sum 6.
-Example 2:
-
-Input: nums = [1]
-Output: 1
-Explanation: The subarray [1] has the largest sum 1.
-Example 3:
-
-Input: nums = [5,4,-1,7,8]
-Output: 23
-Explanation: The subarray [5,4,-1,7,8] has the largest sum 23.
-
-
-Constraints:
-
-1 <= nums.length <= 105
--104 <= nums[i] <= 104
-
-
-Follow up: If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle./
-   */
+    public int maxProduct(int[] nums) {
+        int max = nums[0], min = nums[0], result = nums[0];
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] < 0) {
+                int tmp = max; max = min; min = tmp;
+            }
+            max = Math.max(nums[i], max * nums[i]);
+            min = Math.min(nums[i], min * nums[i]);
+            result = Math.max(result, max);
+        }
+        return result;
+    }
 }

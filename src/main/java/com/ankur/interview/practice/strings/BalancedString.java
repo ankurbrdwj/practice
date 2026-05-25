@@ -14,8 +14,8 @@ public class BalancedString {
         for (int i = 0; i < string.length(); i++) {
             for (int j = i+2; j < string.length()+1; j +=2) {
                 if (isBalanced(string.substring(i,j))){
-                    int curreLength = j-i;
-                    maxLength = Math.max(maxLength,curreLength);
+                    int currentLength = j-i;
+                    maxLength = Math.max(maxLength,currentLength);
                 }
             }
         }
@@ -36,21 +36,12 @@ public class BalancedString {
                 return false;
             }
         }
-        return stack.size() ==0;
+        return stack.size() == 0;
     }
 
-    public static int solution2(String string) {
-        return 0;
-
-    }
-
-    public static int solution3(String string) {
-        return 0;
-
-    }
 
     public static void main(String[] args) {
-        String input = "(())";
-        solution1(input);
+        String input = "(((())))";
+        System.out.println(solution1(input));
     }
 }
