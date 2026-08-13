@@ -19,6 +19,9 @@ import java.util.List;
  *
  * Example: numCourses=2, prerequisites=[[1,0]] → true (take 0 then 1)
  * Example: numCourses=2, prerequisites=[[1,0],[0,1]] → false (cycle)
+ * 0: new ArrayList -> (1)
+ * 1: new ArrayList -> (0)
+ * in above some index 0 is some other index (1)'s  value later
  */
 public class CourseSchedule {
 
@@ -35,13 +38,14 @@ public class CourseSchedule {
     }
 
     private boolean hasCycle(List<List<Integer>> adj, int[] state, int node) {
-        if (state[node] == 1) return true;
-        if (state[node] == 2) return false;
-        state[node] = 1;
+        if (state[node] == 1) return true;  // back-edge: node is on the current DFS path → cycle
+        if (state[node] == 2) return false; // already fully explored, guaranteed no cycle here
+
+        state[node] = 1;                    // mark as "currently being visited"
         for (int neighbor : adj.get(node)) {
-            if (hasCycle(adj, state, neighbor)) return true;
+            if (hasCycle(adj, state, neighbor)) return true; // cycle found deeper in the path
         }
-        state[node] = 2;
+        state[node] = 2;                    // all paths from this node are safe, mark done
         return false;
     }
 }

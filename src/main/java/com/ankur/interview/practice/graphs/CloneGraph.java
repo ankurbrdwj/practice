@@ -1,58 +1,67 @@
 package com.ankur.interview.practice.graphs;
 
+import java.util.*;
+
+/*
+ * PROBLEM: Clone Graph (LeetCode 133) — Iterative DFS + HashMap
+ *
+ * Given a reference to a node in a connected undirected graph, return a deep
+ * copy of the entire graph. Each node has an int value and a list of neighbors.
+ *
+ * Key challenge: the graph may have cycles. Without tracking visited nodes
+ * you'd recurse infinitely. A hashmap (old → clone) solves both problems:
+ * it acts as the visited set AND gives you the clone for any node instantly.
+ *
+ * Approach:
+ *   1. Clone the start node and push it onto a stack.
+ *   2. Pop a node, iterate its neighbors.
+ *   3. If a neighbor hasn't been cloned yet, clone it and push for later.
+ *   4. Either way, wire clone(curr) → clone(neighbor) as a neighbor edge.
+ *
+ * Time  O(V + E) — every node and edge visited once
+ * Space O(V)     — hashmap + stack hold at most V entries
+ *
+ * Example:
+ *   Input:  adjList = [[2,4],[1,3],[2,4],[1,3]]   (4-node cycle-like graph)
+ *   Output: [[2,4],[1,3],[2,4],[1,3]]              (identical structure, new nodes)
+ *
+ *   Input:  adjList = [[]]   → single node, no neighbors
+ *   Input:  adjList = []     → null input → return null
+ */
 public class CloneGraph {
-  /*
-  Given a reference of a node in a connected undirected graph.
 
-Return a deep copy (clone) of the graph.
+    static class Node {
+        public int val;
+        public List<Node> neighbors;
 
-Each node in the graph contains a value (int) and a list (List[Node]) of its neighbors.
+        public Node(int val) {
+            this.val = val;
+            this.neighbors = new ArrayList<>();
+        }
+    }
 
-class Node {
-    public int val;
-    public List<Node> neighbors;
-}
+    public Node cloneGraph(Node node) {
+        if (node == null) return null;                      // empty graph
 
+        Map<Node, Node> cloned = new HashMap<>();           // old node → its clone
+        Deque<Node> stack = new ArrayDeque<>();
 
-Test case format:
+        cloned.put(node, new Node(node.val));               // clone the entry point
+        stack.push(node);
 
-For simplicity, each node's value is the same as the node's index (1-indexed). For example, the first node with val == 1, the second node with val == 2, and so on. The graph is represented in the test case using an adjacency list.
+        while (!stack.isEmpty()) {
+            Node curr = stack.pop();                        // process next original node
 
-An adjacency list is a collection of unordered lists used to represent a finite graph. Each list describes the set of neighbors of a node in the graph.
+            for (Node neighbor : curr.neighbors) {
+                if (!cloned.containsKey(neighbor)) {        // first time seeing this neighbor
+                    cloned.put(neighbor, new Node(neighbor.val)); // clone it
+                    stack.push(neighbor);                   // schedule it for edge wiring
+                }
+                // wire the edge: clone(curr) must point to clone(neighbor)
+                cloned.get(curr).neighbors.add(cloned.get(neighbor));
+            }
+        }
 
-The given node will always be the first node with val = 1. You must return the copy of the given node as a reference to the cloned graph.
-
-
-
-Example 1:
-
-
-Input: adjList = [[2,4],[1,3],[2,4],[1,3]]
-Output: [[2,4],[1,3],[2,4],[1,3]]
-Explanation: There are 4 nodes in the graph.
-1st node (val = 1)'s neighbors are 2nd node (val = 2) and 4th node (val = 4).
-2nd node (val = 2)'s neighbors are 1st node (val = 1) and 3rd node (val = 3).
-3rd node (val = 3)'s neighbors are 2nd node (val = 2) and 4th node (val = 4).
-4th node (val = 4)'s neighbors are 1st node (val = 1) and 3rd node (val = 3).
-Example 2:
-
-
-Input: adjList = [[]]
-Output: [[]]
-Explanation: Note that the input contains one empty list. The graph consists of only one node with val = 1 and it does not have any neighbors.
-Example 3:
-
-Input: adjList = []
-Output: []
-Explanation: This an empty graph, it does not have any nodes.
-
-
-Constraints:
-
-The number of nodes in the graph is in the range [0, 100].
-1 <= Node.val <= 100
-Node.val is unique for each node.
-There are no repeated edges and no self-loops in the graph.
-The Graph is connected and all nodes can be visited starting from the given node.
-   */
+        return cloned.get(node);                            // return clone of the entry node
+    }
 }

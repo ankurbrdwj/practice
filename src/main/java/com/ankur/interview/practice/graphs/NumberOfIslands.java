@@ -18,24 +18,25 @@ package com.ankur.interview.practice.graphs;
 public class NumberOfIslands {
 
     public int numIslands(char[][] grid) {
-        int count = 0;
-        for (int r = 0; r < grid.length; r++) {
-            for (int c = 0; c < grid[0].length; c++) {
-                if (grid[r][c] == '1') {
-                    dfs(grid, r, c);
-                    count++;
+        int count = 0;                                    // tracks how many islands we've found
+        for (int r = 0; r < grid.length; r++) {          // walk every row
+            for (int c = 0; c < grid[0].length; c++) {   // walk every column in that row
+                if (grid[r][c] == '1') {                  // found land not yet visited
+                    dfs(grid, r, c);                      // sink the entire island (flood fill)
+                    count++;                              // one full island has been consumed
                 }
             }
         }
-        return count;
+        return count;                                     // total islands found
     }
 
     private void dfs(char[][] grid, int r, int c) {
+        // base case: stop if out of bounds OR current cell is water/already visited
         if (r < 0 || c < 0 || r >= grid.length || c >= grid[0].length || grid[r][c] != '1') return;
-        grid[r][c] = '0';
-        dfs(grid, r + 1, c);
-        dfs(grid, r - 1, c);
-        dfs(grid, r, c + 1);
-        dfs(grid, r, c - 1);
+        grid[r][c] = '0';          // mark cell visited by turning land into water (in-place)
+        dfs(grid, r + 1, c);       // explore down
+        dfs(grid, r - 1, c);       // explore up
+        dfs(grid, r, c + 1);       // explore right
+        dfs(grid, r, c - 1);       // explore left
     }
 }
